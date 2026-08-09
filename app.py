@@ -32,7 +32,7 @@ if "logged_in" not in st.session_state:
 # JIKA SUDAH LOGIN
 # =====================================================
 if st.session_state.logged_in:
-    st.switch_page("pages/1_Dashboard.py")
+    st.switch_page("1_Dashboard.py")
 
 # =====================================================
 # LANDING PAGE
