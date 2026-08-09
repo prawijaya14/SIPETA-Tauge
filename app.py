@@ -120,8 +120,8 @@ if st.button(
     use_container_width=True,
     type="primary"
 ):
-    # Penulisan string path resmi untuk folder pages
-    st.switch_page("pages/0_Login.py")
+    # Langsung panggil nama filenya tanpa 'pages/'
+    st.switch_page("0_Login.py")
 
 st.divider()
 
