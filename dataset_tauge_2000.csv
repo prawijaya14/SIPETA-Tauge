@@ -1,0 +1,2001 @@
+umur,panjang,warna,akar,kelembaban,kualitas
+2,9.3,Putih Kekuningan,Pendek,Normal,Sedang
+6,5.1,Putih,Pendek,Normal,Sedang
+3,8.0,Putih,Sedang,Normal,Baik
+5,5.9,Kuning,Sedang,Normal,Sedang
+3,9.0,Putih,Sedang,Normal,Sedang
+4,6.4,Putih,Panjang,Normal,Baik
+2,9.2,Kuning,Pendek,Rendah,Sedang
+4,9.3,Putih,Panjang,Normal,Baik
+2,8.8,Putih,Pendek,Normal,Sedang
+6,5.3,Coklat,Pendek,Tinggi,Buruk
+5,7.1,Putih Kekuningan,Sedang,Normal,Baik
+5,7.0,Putih,Panjang,Tinggi,Baik
+6,5.9,Putih,Pendek,Normal,Sedang
+6,6.5,Kuning,Pendek,Tinggi,Buruk
+4,7.6,Putih Kekuningan,Panjang,Normal,Baik
+5,8.2,Putih,Panjang,Normal,Baik
+3,10.0,Putih,Panjang,Normal,Baik
+3,6.6,Putih,Panjang,Normal,Baik
+5,10.0,Putih,Sedang,Normal,Baik
+5,9.0,Putih,Panjang,Normal,Baik
+4,6.0,Putih,Panjang,Tinggi,Baik
+6,10.4,Kuning,Sedang,Tinggi,Sedang
+3,5.5,Putih Kekuningan,Panjang,Tinggi,Sedang
+7,5.7,Kuning,Pendek,Tinggi,Buruk
+6,4.9,Kuning,Pendek,Rendah,Buruk
+2,10.9,Kuning,Pendek,Normal,Sedang
+6,5.6,Kuning,Panjang,Rendah,Sedang
+7,10.1,Kuning,Panjang,Tinggi,Buruk
+7,6.2,Coklat,Pendek,Rendah,Buruk
+4,6.1,Putih,Sedang,Normal,Baik
+2,6.0,Putih Kekuningan,Sedang,Normal,Sedang
+4,8.8,Putih Kekuningan,Panjang,Normal,Sedang
+6,8.2,Putih Kekuningan,Sedang,Rendah,Sedang
+3,8.6,Putih,Panjang,Normal,Baik
+2,4.9,Kuning,Sedang,Normal,Sedang
+3,8.1,Putih,Sedang,Normal,Baik
+3,7.8,Putih,Sedang,Normal,Baik
+2,12.2,Kuning,Pendek,Tinggi,Buruk
+3,10.1,Putih Kekuningan,Pendek,Rendah,Sedang
+4,7.1,Putih,Panjang,Normal,Baik
+6,8.8,Putih,Pendek,Normal,Sedang
+3,8.3,Putih,Panjang,Normal,Baik
+6,10.5,Kuning,Pendek,Normal,Sedang
+2,11.0,Kuning,Pendek,Rendah,Buruk
+5,7.0,Putih,Sedang,Normal,Baik
+6,6.6,Putih,Pendek,Tinggi,Sedang
+3,6.2,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,9.7,Putih Kekuningan,Sedang,Normal,Baik
+2,3.2,Kuning,Panjang,Rendah,Buruk
+2,11.3,Coklat,Panjang,Rendah,Buruk
+5,8.8,Putih,Sedang,Normal,Baik
+2,10.6,Putih Kekuningan,Sedang,Normal,Sedang
+7,8.0,Coklat,Panjang,Rendah,Buruk
+3,9.0,Putih,Panjang,Rendah,Sedang
+3,6.4,Putih,Panjang,Normal,Baik
+3,8.5,Putih,Panjang,Normal,Baik
+3,6.4,Putih Kekuningan,Sedang,Normal,Baik
+7,8.0,Coklat,Pendek,Rendah,Buruk
+3,9.6,Putih,Sedang,Normal,Baik
+5,9.5,Putih,Sedang,Tinggi,Baik
+3,9.9,Putih,Panjang,Normal,Baik
+4,9.6,Putih,Panjang,Tinggi,Sedang
+6,4.1,Kuning,Panjang,Rendah,Buruk
+2,4.5,Coklat,Panjang,Tinggi,Buruk
+2,4.7,Kuning,Panjang,Tinggi,Buruk
+3,9.9,Putih,Panjang,Normal,Baik
+6,11.9,Kuning,Panjang,Rendah,Buruk
+4,4.7,Kuning,Sedang,Rendah,Sedang
+4,7.3,Kuning,Pendek,Rendah,Sedang
+2,5.0,Coklat,Pendek,Rendah,Buruk
+3,9.8,Putih Kekuningan,Panjang,Normal,Baik
+4,8.0,Putih,Panjang,Normal,Baik
+3,6.8,Putih,Panjang,Normal,Baik
+7,8.2,Coklat,Pendek,Tinggi,Buruk
+4,9.1,Putih,Panjang,Normal,Baik
+3,8.0,Putih,Sedang,Normal,Baik
+5,8.5,Putih,Sedang,Normal,Baik
+3,6.6,Putih,Panjang,Normal,Baik
+5,7.2,Kuning,Panjang,Normal,Sedang
+5,7.7,Putih Kekuningan,Pendek,Tinggi,Sedang
+2,9.6,Putih Kekuningan,Pendek,Tinggi,Sedang
+2,8.1,Putih Kekuningan,Sedang,Normal,Sedang
+7,7.8,Coklat,Panjang,Tinggi,Buruk
+7,7.0,Kuning,Panjang,Tinggi,Buruk
+3,9.4,Putih,Panjang,Normal,Baik
+3,8.9,Putih,Panjang,Normal,Baik
+3,5.5,Putih,Panjang,Normal,Sedang
+2,7.2,Putih,Panjang,Rendah,Sedang
+3,9.3,Putih,Sedang,Normal,Baik
+5,7.6,Putih,Sedang,Rendah,Sedang
+6,7.9,Kuning,Panjang,Rendah,Buruk
+4,6.1,Putih,Panjang,Normal,Baik
+2,12.3,Kuning,Panjang,Rendah,Buruk
+4,6.5,Putih,Sedang,Normal,Baik
+4,7.3,Putih,Panjang,Normal,Baik
+6,5.0,Kuning,Panjang,Rendah,Buruk
+2,11.0,Putih,Pendek,Tinggi,Sedang
+5,6.2,Putih,Sedang,Normal,Baik
+3,7.0,Putih,Sedang,Normal,Baik
+5,7.0,Putih,Sedang,Normal,Baik
+4,6.4,Putih,Panjang,Normal,Baik
+6,6.5,Kuning,Pendek,Rendah,Buruk
+4,9.4,Putih,Sedang,Normal,Baik
+2,6.8,Putih,Panjang,Rendah,Sedang
+5,7.4,Putih,Panjang,Normal,Baik
+7,11.4,Coklat,Pendek,Tinggi,Buruk
+5,9.9,Putih,Panjang,Normal,Baik
+7,5.2,Kuning,Pendek,Tinggi,Buruk
+2,10.0,Coklat,Panjang,Rendah,Buruk
+4,5.7,Putih Kekuningan,Sedang,Rendah,Sedang
+5,8.8,Putih,Sedang,Normal,Baik
+3,8.9,Putih,Sedang,Normal,Baik
+5,7.4,Putih Kekuningan,Pendek,Rendah,Sedang
+5,7.0,Putih,Panjang,Normal,Baik
+5,11.0,Kuning,Sedang,Rendah,Sedang
+4,6.5,Putih Kekuningan,Pendek,Tinggi,Sedang
+3,9.0,Putih Kekuningan,Sedang,Normal,Baik
+4,9.2,Kuning,Panjang,Rendah,Sedang
+2,5.5,Coklat,Pendek,Tinggi,Buruk
+5,6.5,Putih,Sedang,Normal,Baik
+3,8.6,Putih,Pendek,Normal,Sedang
+5,7.6,Putih,Pendek,Normal,Sedang
+4,6.5,Putih,Panjang,Normal,Baik
+2,5.5,Kuning,Sedang,Normal,Sedang
+2,8.1,Coklat,Pendek,Tinggi,Buruk
+5,6.4,Kuning,Sedang,Rendah,Sedang
+2,8.5,Kuning,Pendek,Normal,Sedang
+4,8.8,Putih Kekuningan,Pendek,Normal,Sedang
+3,4.5,Putih,Panjang,Tinggi,Sedang
+2,6.0,Kuning,Sedang,Tinggi,Sedang
+2,9.4,Coklat,Pendek,Tinggi,Buruk
+3,8.6,Putih Kekuningan,Sedang,Normal,Baik
+4,8.4,Putih,Panjang,Normal,Baik
+4,9.0,Putih,Panjang,Tinggi,Sedang
+2,8.4,Putih,Panjang,Rendah,Sedang
+2,5.1,Kuning,Panjang,Tinggi,Sedang
+7,10.7,Kuning,Pendek,Tinggi,Buruk
+5,10.5,Putih Kekuningan,Panjang,Rendah,Sedang
+5,10.8,Putih,Sedang,Rendah,Sedang
+5,6.4,Putih,Panjang,Normal,Baik
+4,9.3,Putih,Panjang,Normal,Baik
+3,9.9,Putih,Sedang,Normal,Baik
+5,4.9,Kuning,Sedang,Tinggi,Sedang
+5,9.4,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,7.8,Putih,Sedang,Normal,Baik
+3,9.1,Putih,Panjang,Normal,Sedang
+2,6.0,Putih Kekuningan,Sedang,Normal,Sedang
+3,7.7,Kuning,Sedang,Tinggi,Sedang
+5,9.9,Putih,Pendek,Rendah,Sedang
+5,5.7,Kuning,Panjang,Tinggi,Sedang
+2,5.3,Coklat,Panjang,Tinggi,Buruk
+6,9.8,Coklat,Pendek,Tinggi,Buruk
+4,6.7,Kuning,Sedang,Rendah,Sedang
+2,12.3,Kuning,Panjang,Rendah,Buruk
+6,2.9,Coklat,Panjang,Tinggi,Buruk
+7,12.3,Coklat,Pendek,Rendah,Buruk
+6,6.7,Putih Kekuningan,Sedang,Normal,Sedang
+5,4.6,Putih Kekuningan,Sedang,Tinggi,Sedang
+2,7.2,Coklat,Panjang,Tinggi,Buruk
+4,10.0,Kuning,Sedang,Rendah,Sedang
+5,10.2,Putih Kekuningan,Panjang,Normal,Sedang
+5,9.7,Putih Kekuningan,Sedang,Normal,Baik
+5,8.8,Putih,Sedang,Normal,Baik
+2,5.7,Kuning,Panjang,Tinggi,Buruk
+3,7.0,Putih,Sedang,Normal,Baik
+4,8.5,Putih,Sedang,Normal,Baik
+5,6.2,Putih Kekuningan,Sedang,Rendah,Sedang
+3,5.0,Putih,Panjang,Rendah,Sedang
+5,9.0,Putih,Sedang,Normal,Sedang
+6,3.6,Coklat,Panjang,Tinggi,Buruk
+6,2.7,Coklat,Panjang,Rendah,Buruk
+2,10.4,Kuning,Sedang,Rendah,Sedang
+2,8.6,Coklat,Pendek,Rendah,Buruk
+3,8.6,Kuning,Panjang,Normal,Sedang
+4,6.1,Putih,Sedang,Normal,Baik
+5,7.7,Putih,Panjang,Normal,Baik
+2,5.1,Coklat,Panjang,Tinggi,Buruk
+6,12.1,Kuning,Pendek,Tinggi,Buruk
+7,6.2,Coklat,Pendek,Tinggi,Buruk
+5,6.9,Kuning,Panjang,Rendah,Sedang
+4,5.2,Putih Kekuningan,Sedang,Normal,Sedang
+6,6.6,Kuning,Pendek,Tinggi,Sedang
+4,9.6,Putih,Panjang,Normal,Baik
+3,7.2,Putih,Sedang,Normal,Baik
+5,7.4,Kuning,Panjang,Tinggi,Sedang
+6,8.4,Kuning,Panjang,Rendah,Buruk
+7,6.6,Coklat,Pendek,Tinggi,Buruk
+4,9.8,Putih,Sedang,Tinggi,Baik
+5,7.4,Putih,Sedang,Tinggi,Baik
+6,3.4,Kuning,Pendek,Rendah,Buruk
+2,12.4,Kuning,Pendek,Rendah,Buruk
+3,6.6,Putih Kekuningan,Panjang,Normal,Sedang
+3,10.0,Putih,Sedang,Normal,Baik
+2,2.6,Kuning,Panjang,Rendah,Buruk
+3,6.5,Putih,Sedang,Normal,Baik
+4,7.8,Putih Kekuningan,Sedang,Tinggi,Sedang
+5,6.2,Putih,Panjang,Normal,Baik
+2,12.5,Coklat,Panjang,Rendah,Buruk
+5,5.0,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,7.1,Putih,Panjang,Normal,Baik
+4,7.4,Kuning,Sedang,Normal,Sedang
+2,11.0,Kuning,Panjang,Tinggi,Buruk
+6,5.9,Coklat,Panjang,Tinggi,Buruk
+4,7.3,Kuning,Sedang,Rendah,Sedang
+7,11.7,Kuning,Pendek,Rendah,Buruk
+3,9.0,Putih,Sedang,Normal,Baik
+6,8.2,Kuning,Pendek,Rendah,Sedang
+5,9.8,Putih,Sedang,Tinggi,Baik
+4,5.2,Kuning,Pendek,Normal,Sedang
+3,10.0,Putih,Panjang,Rendah,Sedang
+4,8.3,Putih,Sedang,Normal,Baik
+4,4.7,Putih,Panjang,Rendah,Sedang
+6,2.6,Kuning,Panjang,Rendah,Buruk
+5,9.9,Putih,Sedang,Normal,Baik
+3,6.9,Kuning,Sedang,Tinggi,Sedang
+2,5.5,Kuning,Pendek,Tinggi,Sedang
+4,8.6,Putih,Panjang,Normal,Baik
+5,6.5,Putih,Panjang,Normal,Baik
+6,8.8,Putih Kekuningan,Pendek,Rendah,Sedang
+2,2.6,Coklat,Pendek,Rendah,Buruk
+4,6.6,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,7.5,Putih,Panjang,Normal,Baik
+2,6.9,Coklat,Pendek,Tinggi,Buruk
+6,7.1,Kuning,Sedang,Rendah,Sedang
+3,9.9,Putih,Panjang,Normal,Baik
+2,6.9,Kuning,Pendek,Tinggi,Buruk
+6,5.0,Putih,Panjang,Rendah,Sedang
+3,6.3,Putih,Sedang,Tinggi,Baik
+5,9.8,Putih,Sedang,Normal,Baik
+3,6.7,Putih,Sedang,Normal,Baik
+5,7.5,Kuning,Panjang,Rendah,Sedang
+6,8.7,Kuning,Sedang,Tinggi,Sedang
+4,6.3,Putih,Panjang,Normal,Baik
+4,7.8,Putih,Sedang,Rendah,Sedang
+4,9.3,Putih,Sedang,Normal,Baik
+5,8.3,Kuning,Pendek,Rendah,Sedang
+7,9.0,Coklat,Panjang,Rendah,Buruk
+6,3.5,Coklat,Pendek,Rendah,Buruk
+5,7.8,Putih,Sedang,Normal,Baik
+6,6.6,Coklat,Pendek,Tinggi,Buruk
+3,8.2,Putih,Panjang,Normal,Baik
+6,10.2,Putih,Pendek,Tinggi,Sedang
+4,6.5,Kuning,Panjang,Tinggi,Sedang
+5,8.8,Putih,Panjang,Normal,Baik
+3,8.7,Putih,Sedang,Normal,Baik
+4,6.1,Putih,Sedang,Normal,Baik
+3,6.0,Putih Kekuningan,Pendek,Normal,Sedang
+3,8.0,Putih,Sedang,Normal,Baik
+7,3.8,Coklat,Pendek,Rendah,Buruk
+5,9.1,Putih,Sedang,Normal,Baik
+4,8.7,Putih,Panjang,Normal,Baik
+5,6.0,Putih Kekuningan,Sedang,Rendah,Sedang
+2,6.2,Coklat,Panjang,Tinggi,Buruk
+7,7.8,Kuning,Pendek,Rendah,Buruk
+2,8.9,Coklat,Pendek,Rendah,Buruk
+3,7.1,Putih Kekuningan,Sedang,Normal,Baik
+3,9.3,Putih,Sedang,Normal,Baik
+4,6.9,Putih Kekuningan,Panjang,Normal,Baik
+3,9.4,Putih,Sedang,Normal,Baik
+4,8.8,Putih,Panjang,Normal,Baik
+3,6.1,Putih,Sedang,Normal,Baik
+6,7.3,Putih,Pendek,Rendah,Sedang
+3,7.7,Putih,Panjang,Normal,Baik
+6,8.5,Kuning,Pendek,Rendah,Buruk
+3,8.5,Putih,Panjang,Normal,Baik
+6,10.8,Putih Kekuningan,Panjang,Tinggi,Sedang
+6,8.1,Putih,Sedang,Normal,Sedang
+4,6.1,Putih Kekuningan,Sedang,Normal,Sedang
+5,8.6,Putih,Panjang,Normal,Baik
+4,9.3,Putih,Panjang,Tinggi,Baik
+3,9.8,Putih Kekuningan,Panjang,Rendah,Sedang
+3,6.2,Putih,Sedang,Normal,Baik
+4,10.0,Putih,Panjang,Normal,Baik
+4,6.8,Putih Kekuningan,Panjang,Rendah,Sedang
+4,7.7,Putih,Panjang,Normal,Baik
+3,8.0,Putih,Panjang,Normal,Baik
+2,7.3,Putih Kekuningan,Panjang,Rendah,Sedang
+3,7.3,Putih,Panjang,Normal,Baik
+5,7.8,Putih,Panjang,Normal,Baik
+5,9.9,Putih Kekuningan,Sedang,Normal,Baik
+5,9.2,Putih,Sedang,Normal,Baik
+5,4.7,Putih Kekuningan,Pendek,Tinggi,Sedang
+4,9.8,Putih,Sedang,Normal,Baik
+6,6.9,Kuning,Pendek,Tinggi,Buruk
+5,7.1,Putih Kekuningan,Sedang,Normal,Baik
+5,10.4,Putih Kekuningan,Sedang,Rendah,Sedang
+3,11.0,Putih,Panjang,Rendah,Sedang
+3,9.4,Putih,Panjang,Tinggi,Baik
+6,9.2,Kuning,Panjang,Tinggi,Buruk
+7,9.6,Kuning,Panjang,Rendah,Buruk
+3,9.2,Putih,Panjang,Normal,Baik
+4,7.5,Kuning,Pendek,Tinggi,Sedang
+2,5.6,Coklat,Panjang,Tinggi,Buruk
+2,3.8,Coklat,Pendek,Tinggi,Buruk
+6,6.7,Kuning,Panjang,Tinggi,Sedang
+3,7.7,Putih Kekuningan,Sedang,Normal,Baik
+4,5.6,Putih,Panjang,Normal,Sedang
+5,9.6,Putih,Panjang,Normal,Baik
+6,3.8,Coklat,Pendek,Rendah,Buruk
+6,5.5,Kuning,Panjang,Tinggi,Sedang
+6,10.9,Kuning,Pendek,Rendah,Buruk
+5,9.1,Putih,Sedang,Normal,Baik
+5,6.1,Putih,Panjang,Normal,Baik
+3,9.2,Putih,Panjang,Normal,Baik
+3,7.4,Putih,Sedang,Normal,Sedang
+3,7.3,Putih,Panjang,Tinggi,Baik
+4,8.1,Putih,Sedang,Normal,Baik
+3,6.6,Putih,Panjang,Normal,Baik
+3,9.3,Putih Kekuningan,Panjang,Normal,Baik
+5,7.9,Putih,Panjang,Normal,Baik
+7,7.1,Kuning,Pendek,Tinggi,Buruk
+4,8.0,Putih,Panjang,Normal,Baik
+3,7.7,Putih,Panjang,Normal,Baik
+4,6.2,Putih,Panjang,Normal,Baik
+5,7.8,Putih,Sedang,Normal,Baik
+4,9.2,Putih,Panjang,Normal,Baik
+5,7.6,Putih,Sedang,Normal,Baik
+4,8.1,Putih,Sedang,Normal,Baik
+3,7.1,Kuning,Panjang,Rendah,Sedang
+6,9.9,Kuning,Sedang,Tinggi,Sedang
+5,9.8,Putih,Sedang,Tinggi,Sedang
+4,8.3,Putih,Sedang,Normal,Baik
+5,9.1,Putih,Sedang,Normal,Baik
+3,7.9,Kuning,Panjang,Rendah,Sedang
+5,7.0,Putih,Sedang,Normal,Baik
+4,6.6,Putih,Panjang,Normal,Baik
+5,10.2,Kuning,Panjang,Normal,Sedang
+6,5.8,Putih,Panjang,Rendah,Sedang
+4,10.7,Putih,Panjang,Rendah,Sedang
+4,8.5,Putih Kekuningan,Pendek,Rendah,Sedang
+3,10.6,Putih,Sedang,Tinggi,Sedang
+5,8.0,Putih,Panjang,Normal,Baik
+6,7.0,Putih,Sedang,Normal,Sedang
+4,9.8,Putih,Panjang,Normal,Baik
+3,5.8,Kuning,Sedang,Tinggi,Sedang
+3,5.2,Kuning,Panjang,Normal,Sedang
+5,9.6,Putih,Sedang,Normal,Baik
+5,7.9,Putih,Sedang,Normal,Baik
+3,7.1,Putih,Sedang,Tinggi,Sedang
+4,7.3,Putih,Sedang,Normal,Baik
+5,8.9,Putih Kekuningan,Sedang,Normal,Baik
+2,12.5,Coklat,Panjang,Rendah,Buruk
+6,11.3,Kuning,Panjang,Rendah,Buruk
+6,5.3,Coklat,Pendek,Tinggi,Buruk
+3,7.3,Putih,Panjang,Normal,Baik
+4,9.2,Putih,Sedang,Normal,Baik
+6,10.8,Coklat,Pendek,Tinggi,Buruk
+3,10.9,Putih,Sedang,Normal,Sedang
+4,6.9,Putih,Panjang,Normal,Baik
+2,6.2,Putih,Panjang,Normal,Sedang
+3,7.9,Putih,Panjang,Normal,Baik
+4,6.9,Putih Kekuningan,Pendek,Normal,Sedang
+5,9.4,Kuning,Sedang,Rendah,Sedang
+5,9.4,Kuning,Pendek,Normal,Sedang
+6,10.2,Putih Kekuningan,Panjang,Rendah,Sedang
+4,5.0,Kuning,Pendek,Normal,Sedang
+7,4.5,Kuning,Pendek,Tinggi,Buruk
+6,3.7,Kuning,Panjang,Rendah,Buruk
+6,10.6,Coklat,Pendek,Tinggi,Buruk
+2,8.1,Kuning,Sedang,Tinggi,Sedang
+4,9.3,Putih,Sedang,Normal,Baik
+3,8.2,Putih,Sedang,Tinggi,Baik
+4,7.2,Putih Kekuningan,Panjang,Tinggi,Sedang
+5,6.9,Putih,Sedang,Rendah,Sedang
+5,9.9,Putih,Sedang,Normal,Baik
+3,10.0,Putih,Sedang,Normal,Baik
+3,9.0,Putih Kekuningan,Panjang,Normal,Baik
+6,7.0,Putih Kekuningan,Pendek,Rendah,Sedang
+4,6.8,Putih,Sedang,Normal,Baik
+6,9.5,Putih Kekuningan,Pendek,Normal,Sedang
+5,6.1,Putih,Sedang,Normal,Baik
+4,6.9,Putih,Sedang,Normal,Baik
+2,10.7,Coklat,Panjang,Rendah,Buruk
+3,9.9,Putih,Panjang,Normal,Baik
+5,9.5,Putih Kekuningan,Panjang,Normal,Baik
+4,9.8,Putih,Panjang,Normal,Baik
+4,7.5,Putih,Panjang,Normal,Baik
+5,6.6,Putih,Sedang,Normal,Baik
+7,7.8,Coklat,Pendek,Tinggi,Buruk
+5,6.3,Putih,Panjang,Normal,Baik
+3,4.8,Putih,Panjang,Tinggi,Sedang
+2,5.7,Kuning,Panjang,Tinggi,Sedang
+5,5.9,Putih,Sedang,Normal,Sedang
+3,9.8,Putih,Panjang,Tinggi,Baik
+3,7.1,Putih Kekuningan,Panjang,Rendah,Sedang
+6,7.2,Coklat,Panjang,Tinggi,Buruk
+4,7.9,Putih,Panjang,Normal,Baik
+3,7.5,Putih,Sedang,Normal,Baik
+5,9.7,Putih,Panjang,Normal,Baik
+3,7.5,Putih,Panjang,Normal,Baik
+6,5.1,Coklat,Panjang,Tinggi,Buruk
+4,6.7,Putih,Panjang,Normal,Baik
+7,12.1,Kuning,Pendek,Rendah,Buruk
+5,5.4,Kuning,Pendek,Normal,Sedang
+2,5.9,Putih,Sedang,Normal,Sedang
+6,10.4,Kuning,Sedang,Normal,Sedang
+5,7.6,Putih,Panjang,Normal,Baik
+5,9.3,Putih,Sedang,Normal,Baik
+3,7.0,Putih,Panjang,Normal,Baik
+4,6.3,Putih Kekuningan,Panjang,Normal,Baik
+2,5.5,Kuning,Pendek,Rendah,Buruk
+4,8.2,Putih,Sedang,Normal,Baik
+4,8.6,Putih,Sedang,Normal,Baik
+2,4.6,Coklat,Panjang,Rendah,Buruk
+7,11.8,Kuning,Pendek,Tinggi,Buruk
+3,8.3,Putih,Panjang,Tinggi,Baik
+5,7.0,Putih,Panjang,Normal,Baik
+5,9.4,Putih Kekuningan,Panjang,Tinggi,Sedang
+5,9.9,Putih,Panjang,Normal,Baik
+5,9.1,Putih Kekuningan,Panjang,Tinggi,Baik
+5,7.1,Putih Kekuningan,Panjang,Normal,Baik
+5,7.3,Kuning,Panjang,Tinggi,Sedang
+5,7.2,Putih,Sedang,Normal,Baik
+5,9.1,Putih,Panjang,Normal,Baik
+3,9.8,Putih,Panjang,Normal,Baik
+4,7.8,Putih,Panjang,Normal,Baik
+5,6.4,Putih,Panjang,Normal,Baik
+4,7.6,Putih,Sedang,Normal,Baik
+4,6.7,Putih,Panjang,Normal,Baik
+4,7.1,Putih,Sedang,Normal,Baik
+7,8.8,Kuning,Panjang,Rendah,Buruk
+3,9.8,Putih,Panjang,Normal,Baik
+4,7.7,Putih,Sedang,Normal,Baik
+3,7.6,Putih Kekuningan,Sedang,Rendah,Sedang
+5,8.5,Putih Kekuningan,Sedang,Normal,Baik
+4,7.5,Putih Kekuningan,Sedang,Normal,Baik
+6,4.7,Kuning,Sedang,Tinggi,Sedang
+4,9.3,Putih,Panjang,Normal,Baik
+4,7.0,Putih,Panjang,Normal,Baik
+5,7.9,Putih,Panjang,Normal,Baik
+6,9.5,Kuning,Pendek,Rendah,Buruk
+4,5.6,Kuning,Pendek,Tinggi,Sedang
+7,9.0,Coklat,Panjang,Rendah,Buruk
+4,6.9,Putih,Sedang,Normal,Baik
+5,8.4,Putih,Panjang,Tinggi,Baik
+4,7.2,Putih Kekuningan,Pendek,Tinggi,Sedang
+4,7.4,Putih,Panjang,Normal,Baik
+5,8.8,Putih,Panjang,Normal,Baik
+2,10.0,Kuning,Pendek,Tinggi,Sedang
+7,4.9,Kuning,Pendek,Tinggi,Buruk
+5,6.0,Putih,Panjang,Normal,Sedang
+5,7.7,Putih,Sedang,Normal,Baik
+3,8.8,Putih,Sedang,Normal,Baik
+7,4.4,Coklat,Pendek,Tinggi,Buruk
+5,9.5,Putih,Panjang,Normal,Baik
+6,5.2,Putih,Sedang,Tinggi,Sedang
+5,8.8,Putih,Sedang,Normal,Baik
+3,7.2,Putih,Sedang,Normal,Baik
+3,8.3,Putih,Panjang,Normal,Baik
+3,8.1,Putih,Sedang,Normal,Sedang
+4,8.5,Putih,Sedang,Normal,Baik
+4,9.9,Putih,Panjang,Normal,Baik
+5,7.7,Putih Kekuningan,Panjang,Normal,Sedang
+2,5.4,Coklat,Pendek,Tinggi,Buruk
+4,8.3,Putih,Panjang,Normal,Baik
+3,7.1,Putih,Panjang,Normal,Baik
+5,8.1,Putih,Pendek,Tinggi,Sedang
+2,5.5,Kuning,Panjang,Tinggi,Buruk
+3,7.8,Putih Kekuningan,Sedang,Normal,Baik
+4,10.1,Kuning,Panjang,Rendah,Sedang
+3,9.1,Putih,Sedang,Normal,Baik
+6,8.0,Putih,Panjang,Rendah,Sedang
+4,9.8,Putih,Sedang,Normal,Baik
+5,10.5,Putih,Panjang,Normal,Sedang
+3,6.1,Kuning,Sedang,Normal,Sedang
+5,7.7,Kuning,Panjang,Rendah,Sedang
+5,7.4,Kuning,Pendek,Rendah,Sedang
+4,9.0,Putih,Sedang,Rendah,Sedang
+3,9.5,Putih,Sedang,Normal,Baik
+4,10.0,Kuning,Sedang,Normal,Sedang
+2,7.4,Coklat,Panjang,Tinggi,Buruk
+3,8.2,Putih,Sedang,Tinggi,Sedang
+2,5.1,Putih,Pendek,Normal,Sedang
+2,6.9,Kuning,Panjang,Rendah,Buruk
+2,11.3,Coklat,Pendek,Tinggi,Buruk
+4,7.0,Putih,Sedang,Normal,Baik
+3,7.3,Putih Kekuningan,Panjang,Normal,Sedang
+4,6.3,Putih,Panjang,Normal,Baik
+2,10.9,Putih,Panjang,Normal,Sedang
+3,7.0,Kuning,Pendek,Normal,Sedang
+4,6.5,Putih,Sedang,Normal,Baik
+2,7.9,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,8.9,Putih,Sedang,Tinggi,Baik
+5,10.1,Putih Kekuningan,Pendek,Normal,Sedang
+6,9.2,Putih,Sedang,Rendah,Sedang
+2,5.3,Kuning,Pendek,Tinggi,Buruk
+7,2.8,Coklat,Pendek,Rendah,Buruk
+4,8.7,Putih Kekuningan,Sedang,Rendah,Sedang
+4,8.6,Putih,Sedang,Tinggi,Baik
+2,6.4,Coklat,Panjang,Rendah,Buruk
+2,4.6,Putih Kekuningan,Pendek,Rendah,Sedang
+3,9.8,Putih,Panjang,Normal,Baik
+5,7.3,Putih,Pendek,Tinggi,Sedang
+6,5.5,Putih Kekuningan,Sedang,Normal,Sedang
+3,10.8,Putih Kekuningan,Panjang,Rendah,Sedang
+5,9.1,Putih,Sedang,Normal,Baik
+3,6.2,Putih,Panjang,Normal,Baik
+2,6.5,Kuning,Panjang,Tinggi,Sedang
+3,8.8,Putih,Sedang,Normal,Baik
+5,9.1,Putih,Sedang,Normal,Baik
+4,9.3,Putih Kekuningan,Pendek,Rendah,Sedang
+6,7.7,Coklat,Pendek,Tinggi,Buruk
+4,4.9,Kuning,Pendek,Rendah,Sedang
+3,9.6,Putih,Sedang,Normal,Baik
+2,10.1,Putih Kekuningan,Pendek,Normal,Sedang
+5,10.5,Putih Kekuningan,Pendek,Tinggi,Sedang
+7,9.9,Coklat,Pendek,Tinggi,Buruk
+5,7.3,Putih,Panjang,Normal,Baik
+2,5.7,Kuning,Pendek,Rendah,Sedang
+4,9.5,Putih,Panjang,Normal,Baik
+2,6.9,Putih,Panjang,Rendah,Sedang
+3,7.5,Kuning,Sedang,Normal,Sedang
+6,9.4,Putih Kekuningan,Pendek,Normal,Sedang
+2,4.8,Coklat,Pendek,Tinggi,Buruk
+5,7.5,Putih,Panjang,Normal,Baik
+3,7.2,Putih Kekuningan,Pendek,Tinggi,Sedang
+3,9.7,Putih,Panjang,Normal,Baik
+5,6.3,Putih,Sedang,Normal,Baik
+5,8.3,Putih,Sedang,Normal,Baik
+4,9.7,Putih,Panjang,Normal,Baik
+3,9.8,Putih,Sedang,Normal,Baik
+4,7.3,Putih,Panjang,Tinggi,Baik
+4,7.9,Putih,Sedang,Normal,Baik
+6,4.8,Putih,Pendek,Normal,Sedang
+4,7.1,Putih Kekuningan,Panjang,Rendah,Sedang
+3,6.1,Putih,Panjang,Normal,Baik
+2,7.5,Putih Kekuningan,Pendek,Normal,Sedang
+3,6.5,Putih,Panjang,Normal,Baik
+2,8.3,Coklat,Pendek,Rendah,Buruk
+2,11.5,Coklat,Pendek,Rendah,Buruk
+6,3.7,Coklat,Pendek,Rendah,Buruk
+6,10.7,Coklat,Panjang,Rendah,Buruk
+4,6.7,Putih,Sedang,Normal,Baik
+3,6.1,Putih,Sedang,Normal,Baik
+6,7.6,Putih Kekuningan,Sedang,Rendah,Sedang
+3,8.6,Putih,Sedang,Normal,Baik
+2,12.4,Coklat,Panjang,Tinggi,Buruk
+5,8.0,Putih,Sedang,Normal,Baik
+2,10.3,Putih,Pendek,Rendah,Sedang
+6,11.0,Putih Kekuningan,Pendek,Normal,Sedang
+4,8.0,Kuning,Pendek,Normal,Sedang
+5,6.8,Putih Kekuningan,Pendek,Normal,Sedang
+4,10.4,Putih Kekuningan,Panjang,Tinggi,Sedang
+5,8.3,Putih,Sedang,Normal,Baik
+6,7.9,Kuning,Panjang,Rendah,Buruk
+3,8.4,Putih,Panjang,Normal,Baik
+2,10.6,Coklat,Pendek,Tinggi,Buruk
+3,8.3,Putih Kekuningan,Sedang,Normal,Baik
+2,6.2,Coklat,Pendek,Tinggi,Buruk
+3,9.9,Putih,Panjang,Normal,Baik
+7,5.7,Coklat,Pendek,Rendah,Buruk
+5,8.8,Putih,Sedang,Tinggi,Baik
+6,11.0,Kuning,Pendek,Tinggi,Buruk
+7,4.7,Kuning,Panjang,Rendah,Buruk
+3,7.0,Putih Kekuningan,Sedang,Normal,Baik
+7,9.2,Coklat,Panjang,Rendah,Buruk
+3,8.8,Putih,Sedang,Normal,Baik
+4,8.9,Putih Kekuningan,Panjang,Normal,Baik
+5,7.5,Putih,Sedang,Normal,Baik
+3,7.2,Putih,Sedang,Normal,Baik
+4,6.6,Putih,Sedang,Normal,Baik
+6,9.5,Coklat,Pendek,Tinggi,Buruk
+3,7.3,Putih Kekuningan,Panjang,Normal,Baik
+6,6.2,Putih,Sedang,Normal,Sedang
+4,8.3,Putih,Sedang,Normal,Baik
+3,7.2,Putih,Panjang,Normal,Baik
+3,8.6,Putih Kekuningan,Panjang,Normal,Baik
+4,7.9,Putih,Panjang,Normal,Baik
+3,6.9,Putih,Sedang,Normal,Sedang
+4,7.8,Putih,Panjang,Normal,Baik
+5,8.7,Putih,Panjang,Normal,Baik
+5,6.9,Putih,Panjang,Normal,Baik
+5,8.7,Putih Kekuningan,Sedang,Normal,Baik
+5,6.1,Putih,Sedang,Normal,Baik
+3,10.7,Putih Kekuningan,Pendek,Normal,Sedang
+4,6.3,Putih,Sedang,Tinggi,Baik
+6,6.2,Kuning,Pendek,Normal,Sedang
+4,8.2,Putih,Panjang,Tinggi,Baik
+5,8.5,Putih,Panjang,Normal,Baik
+5,8.4,Putih,Sedang,Tinggi,Baik
+2,9.6,Kuning,Sedang,Rendah,Sedang
+5,7.9,Putih,Sedang,Normal,Baik
+5,8.4,Putih,Sedang,Normal,Baik
+7,4.9,Coklat,Panjang,Tinggi,Buruk
+4,7.2,Putih,Sedang,Tinggi,Baik
+4,9.9,Putih,Panjang,Normal,Baik
+5,6.4,Putih,Panjang,Normal,Baik
+4,9.8,Kuning,Pendek,Normal,Sedang
+5,7.6,Putih,Sedang,Normal,Baik
+2,10.9,Kuning,Pendek,Tinggi,Buruk
+4,8.8,Putih,Panjang,Normal,Baik
+2,8.9,Putih Kekuningan,Sedang,Rendah,Sedang
+3,10.7,Putih,Panjang,Tinggi,Sedang
+3,9.4,Putih,Sedang,Normal,Baik
+3,9.4,Putih,Sedang,Normal,Baik
+3,6.2,Putih,Panjang,Normal,Sedang
+7,2.6,Kuning,Pendek,Rendah,Buruk
+5,9.2,Putih,Panjang,Normal,Baik
+4,7.8,Putih,Panjang,Normal,Baik
+6,8.3,Kuning,Panjang,Tinggi,Buruk
+3,7.9,Putih,Panjang,Normal,Baik
+6,9.1,Coklat,Pendek,Rendah,Buruk
+3,10.3,Kuning,Sedang,Tinggi,Sedang
+3,8.9,Putih,Panjang,Normal,Baik
+4,8.9,Putih,Sedang,Normal,Baik
+6,8.6,Putih,Panjang,Rendah,Sedang
+3,10.0,Kuning,Pendek,Rendah,Sedang
+3,9.0,Putih,Sedang,Tinggi,Baik
+7,3.4,Coklat,Pendek,Tinggi,Buruk
+4,7.5,Putih,Panjang,Normal,Baik
+6,8.3,Kuning,Pendek,Rendah,Sedang
+7,3.7,Coklat,Panjang,Tinggi,Buruk
+3,6.5,Putih,Panjang,Tinggi,Baik
+6,3.9,Kuning,Pendek,Tinggi,Buruk
+3,7.3,Putih,Panjang,Normal,Baik
+3,8.2,Putih Kekuningan,Sedang,Normal,Sedang
+4,8.5,Putih,Panjang,Normal,Baik
+3,8.9,Putih Kekuningan,Panjang,Normal,Baik
+2,8.9,Kuning,Panjang,Normal,Sedang
+4,7.2,Putih,Panjang,Normal,Baik
+6,12.0,Coklat,Panjang,Tinggi,Buruk
+2,5.9,Coklat,Panjang,Rendah,Buruk
+4,6.1,Putih,Sedang,Normal,Baik
+5,6.7,Putih,Sedang,Normal,Baik
+6,8.6,Kuning,Pendek,Tinggi,Sedang
+3,6.2,Putih,Panjang,Normal,Baik
+5,9.1,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,7.2,Putih Kekuningan,Panjang,Tinggi,Sedang
+5,8.8,Putih,Sedang,Normal,Baik
+4,5.2,Putih Kekuningan,Sedang,Normal,Sedang
+4,9.9,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,6.2,Putih,Sedang,Normal,Baik
+3,4.5,Kuning,Pendek,Normal,Sedang
+7,7.4,Kuning,Pendek,Rendah,Buruk
+7,4.8,Coklat,Panjang,Tinggi,Buruk
+3,9.5,Putih,Panjang,Normal,Baik
+5,6.5,Putih,Sedang,Normal,Baik
+5,6.7,Putih,Panjang,Tinggi,Baik
+5,6.4,Putih,Sedang,Normal,Baik
+4,7.1,Putih,Panjang,Normal,Baik
+3,5.2,Kuning,Panjang,Normal,Sedang
+2,3.5,Coklat,Panjang,Rendah,Buruk
+4,8.5,Kuning,Panjang,Normal,Sedang
+5,5.2,Putih,Sedang,Normal,Sedang
+5,7.3,Putih,Sedang,Tinggi,Baik
+4,7.9,Kuning,Panjang,Tinggi,Sedang
+5,8.9,Putih,Panjang,Normal,Baik
+7,3.0,Kuning,Panjang,Tinggi,Buruk
+2,10.0,Coklat,Pendek,Tinggi,Buruk
+2,7.6,Coklat,Panjang,Rendah,Buruk
+4,9.2,Putih,Panjang,Normal,Baik
+4,9.0,Putih,Panjang,Normal,Baik
+2,9.9,Kuning,Panjang,Tinggi,Sedang
+5,8.2,Putih,Panjang,Tinggi,Baik
+3,9.3,Putih,Panjang,Normal,Baik
+5,9.2,Putih,Panjang,Rendah,Sedang
+5,6.9,Putih,Panjang,Normal,Baik
+3,6.2,Putih,Sedang,Normal,Baik
+5,5.2,Kuning,Pendek,Normal,Sedang
+4,6.9,Putih,Sedang,Normal,Baik
+4,6.2,Putih,Sedang,Normal,Baik
+6,10.7,Putih Kekuningan,Sedang,Normal,Sedang
+2,8.1,Putih,Panjang,Rendah,Sedang
+2,9.4,Kuning,Pendek,Rendah,Buruk
+5,8.4,Putih,Panjang,Normal,Baik
+3,6.3,Putih,Sedang,Rendah,Sedang
+2,6.6,Coklat,Panjang,Rendah,Buruk
+5,8.9,Putih,Sedang,Tinggi,Baik
+3,7.8,Kuning,Panjang,Rendah,Sedang
+4,8.2,Kuning,Panjang,Tinggi,Sedang
+6,6.4,Putih,Pendek,Tinggi,Sedang
+4,6.6,Putih,Sedang,Normal,Baik
+6,9.3,Kuning,Pendek,Tinggi,Buruk
+5,6.1,Putih,Sedang,Normal,Baik
+6,10.1,Kuning,Panjang,Tinggi,Sedang
+5,9.1,Putih,Panjang,Normal,Baik
+4,7.6,Putih Kekuningan,Panjang,Tinggi,Baik
+5,7.0,Putih,Panjang,Normal,Baik
+7,9.6,Coklat,Pendek,Rendah,Buruk
+3,9.9,Putih,Sedang,Normal,Baik
+3,7.7,Putih,Sedang,Normal,Baik
+2,5.8,Kuning,Pendek,Rendah,Buruk
+7,3.0,Coklat,Panjang,Tinggi,Buruk
+5,7.3,Putih,Sedang,Normal,Baik
+2,6.7,Coklat,Pendek,Tinggi,Buruk
+3,8.7,Putih,Panjang,Normal,Baik
+6,7.6,Kuning,Panjang,Normal,Sedang
+4,7.8,Putih Kekuningan,Sedang,Tinggi,Baik
+4,7.0,Putih Kekuningan,Sedang,Rendah,Sedang
+4,4.7,Kuning,Sedang,Tinggi,Sedang
+6,7.4,Coklat,Pendek,Tinggi,Buruk
+2,5.6,Kuning,Panjang,Normal,Sedang
+3,8.9,Putih Kekuningan,Panjang,Rendah,Sedang
+2,7.9,Coklat,Pendek,Rendah,Buruk
+5,7.3,Putih,Sedang,Normal,Baik
+3,8.3,Putih,Panjang,Normal,Baik
+5,7.3,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,8.6,Putih,Sedang,Normal,Baik
+5,6.4,Putih,Panjang,Normal,Baik
+4,7.5,Putih,Sedang,Normal,Baik
+3,9.4,Kuning,Sedang,Tinggi,Sedang
+5,9.5,Putih Kekuningan,Panjang,Tinggi,Baik
+5,6.6,Putih,Panjang,Normal,Baik
+6,4.6,Coklat,Pendek,Tinggi,Buruk
+7,3.9,Kuning,Pendek,Tinggi,Buruk
+3,8.7,Putih,Sedang,Normal,Baik
+7,7.1,Kuning,Panjang,Rendah,Buruk
+3,8.9,Putih,Panjang,Normal,Baik
+3,5.2,Kuning,Pendek,Normal,Sedang
+4,7.3,Putih,Sedang,Normal,Baik
+4,9.8,Putih,Panjang,Normal,Baik
+5,8.6,Putih,Panjang,Normal,Baik
+5,7.5,Putih,Sedang,Rendah,Sedang
+3,8.7,Putih Kekuningan,Sedang,Normal,Sedang
+2,5.1,Kuning,Pendek,Rendah,Buruk
+7,2.8,Coklat,Pendek,Rendah,Buruk
+6,10.3,Kuning,Sedang,Tinggi,Sedang
+6,6.4,Coklat,Pendek,Tinggi,Buruk
+2,7.1,Kuning,Pendek,Tinggi,Sedang
+5,8.7,Putih,Sedang,Normal,Baik
+5,8.6,Putih Kekuningan,Panjang,Tinggi,Baik
+4,6.9,Putih,Sedang,Normal,Baik
+4,7.6,Putih Kekuningan,Sedang,Normal,Baik
+2,9.1,Kuning,Panjang,Rendah,Sedang
+6,8.3,Kuning,Panjang,Tinggi,Buruk
+5,9.6,Putih,Panjang,Normal,Baik
+7,6.6,Coklat,Panjang,Tinggi,Buruk
+2,7.5,Kuning,Panjang,Rendah,Buruk
+5,8.6,Putih,Sedang,Normal,Baik
+2,8.8,Putih,Sedang,Tinggi,Sedang
+5,7.9,Putih,Sedang,Normal,Baik
+3,6.2,Putih,Sedang,Normal,Baik
+6,5.5,Putih Kekuningan,Sedang,Normal,Sedang
+5,8.4,Kuning,Panjang,Normal,Sedang
+7,9.1,Coklat,Pendek,Rendah,Buruk
+4,9.5,Putih,Panjang,Normal,Baik
+2,8.7,Coklat,Pendek,Tinggi,Buruk
+7,8.4,Kuning,Panjang,Tinggi,Buruk
+3,6.8,Putih,Panjang,Normal,Baik
+3,7.6,Kuning,Panjang,Normal,Sedang
+7,7.5,Kuning,Pendek,Tinggi,Buruk
+6,8.0,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,7.5,Putih,Panjang,Normal,Baik
+6,6.0,Kuning,Panjang,Rendah,Buruk
+3,9.6,Putih,Panjang,Normal,Baik
+5,9.2,Putih,Sedang,Normal,Baik
+3,8.8,Putih,Panjang,Normal,Baik
+5,7.0,Putih,Panjang,Normal,Baik
+5,9.4,Putih,Panjang,Tinggi,Sedang
+4,8.1,Putih,Sedang,Rendah,Sedang
+5,9.3,Kuning,Pendek,Tinggi,Sedang
+5,9.8,Putih,Panjang,Normal,Baik
+7,9.5,Kuning,Pendek,Tinggi,Buruk
+2,10.5,Kuning,Panjang,Tinggi,Buruk
+4,6.9,Putih,Sedang,Normal,Baik
+6,8.6,Coklat,Pendek,Rendah,Buruk
+5,4.6,Kuning,Panjang,Rendah,Sedang
+5,8.0,Putih,Sedang,Normal,Baik
+5,6.0,Putih,Panjang,Normal,Baik
+4,7.6,Putih,Sedang,Normal,Baik
+3,8.2,Putih,Panjang,Normal,Baik
+2,8.6,Kuning,Panjang,Tinggi,Buruk
+4,5.6,Kuning,Pendek,Tinggi,Sedang
+4,7.4,Putih,Panjang,Normal,Baik
+7,5.0,Coklat,Panjang,Tinggi,Buruk
+4,10.7,Putih,Panjang,Rendah,Sedang
+2,7.3,Coklat,Pendek,Tinggi,Buruk
+3,8.9,Putih Kekuningan,Sedang,Rendah,Sedang
+7,7.9,Coklat,Pendek,Tinggi,Buruk
+5,9.0,Putih,Sedang,Normal,Baik
+5,7.1,Putih Kekuningan,Sedang,Normal,Baik
+5,7.0,Putih,Sedang,Normal,Baik
+5,7.4,Putih,Sedang,Tinggi,Baik
+5,8.5,Kuning,Pendek,Rendah,Sedang
+4,8.0,Putih Kekuningan,Panjang,Normal,Baik
+7,5.3,Kuning,Pendek,Rendah,Buruk
+5,7.6,Kuning,Pendek,Tinggi,Sedang
+5,9.1,Putih,Sedang,Normal,Baik
+2,4.6,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,8.5,Putih,Panjang,Normal,Baik
+6,6.7,Putih Kekuningan,Sedang,Rendah,Sedang
+5,9.0,Putih,Panjang,Normal,Baik
+3,9.9,Putih,Sedang,Normal,Baik
+7,6.8,Coklat,Pendek,Rendah,Buruk
+7,4.0,Kuning,Pendek,Tinggi,Buruk
+6,8.0,Putih,Sedang,Rendah,Sedang
+5,6.2,Putih,Sedang,Normal,Baik
+6,10.9,Kuning,Panjang,Tinggi,Buruk
+4,8.2,Putih Kekuningan,Panjang,Normal,Baik
+4,9.5,Putih Kekuningan,Sedang,Normal,Baik
+6,5.6,Putih,Sedang,Rendah,Sedang
+5,9.5,Putih,Pendek,Rendah,Sedang
+5,8.6,Putih Kekuningan,Pendek,Tinggi,Sedang
+6,6.7,Coklat,Pendek,Rendah,Buruk
+3,7.3,Putih,Panjang,Normal,Baik
+4,9.1,Putih Kekuningan,Panjang,Normal,Baik
+3,6.5,Putih,Panjang,Tinggi,Baik
+2,5.9,Putih,Pendek,Normal,Sedang
+4,8.2,Putih,Panjang,Normal,Baik
+2,5.1,Kuning,Pendek,Tinggi,Buruk
+3,9.0,Putih,Sedang,Normal,Baik
+2,2.9,Coklat,Panjang,Tinggi,Buruk
+6,10.6,Kuning,Sedang,Normal,Sedang
+7,7.9,Coklat,Panjang,Tinggi,Buruk
+6,7.9,Kuning,Panjang,Tinggi,Buruk
+4,6.6,Putih,Sedang,Normal,Baik
+2,9.0,Putih,Sedang,Rendah,Sedang
+4,9.2,Putih,Sedang,Normal,Baik
+5,7.7,Putih,Panjang,Normal,Baik
+3,7.7,Putih,Panjang,Normal,Baik
+4,7.2,Putih Kekuningan,Pendek,Normal,Sedang
+5,7.8,Putih,Panjang,Normal,Baik
+3,9.9,Putih,Sedang,Normal,Baik
+4,8.9,Putih,Sedang,Normal,Baik
+4,7.2,Putih,Panjang,Normal,Baik
+6,3.3,Kuning,Pendek,Tinggi,Buruk
+2,7.9,Kuning,Pendek,Tinggi,Buruk
+2,3.7,Kuning,Panjang,Tinggi,Buruk
+3,6.8,Putih,Sedang,Normal,Baik
+6,6.4,Coklat,Panjang,Rendah,Buruk
+2,9.3,Kuning,Panjang,Normal,Sedang
+5,7.2,Putih,Sedang,Normal,Baik
+3,6.9,Putih,Sedang,Normal,Baik
+3,7.6,Putih,Sedang,Normal,Baik
+6,5.5,Putih Kekuningan,Pendek,Normal,Sedang
+6,6.7,Kuning,Pendek,Normal,Sedang
+3,8.8,Putih,Sedang,Normal,Baik
+5,9.2,Putih,Panjang,Normal,Baik
+4,7.4,Putih,Sedang,Normal,Baik
+4,8.2,Putih,Sedang,Normal,Baik
+4,7.1,Putih,Sedang,Normal,Baik
+4,9.3,Putih,Panjang,Normal,Baik
+5,9.3,Putih Kekuningan,Panjang,Rendah,Sedang
+2,5.7,Kuning,Panjang,Rendah,Buruk
+5,9.5,Putih Kekuningan,Panjang,Rendah,Sedang
+5,7.3,Putih,Sedang,Normal,Baik
+2,11.2,Kuning,Pendek,Tinggi,Buruk
+3,8.3,Putih,Panjang,Normal,Baik
+4,4.8,Putih Kekuningan,Panjang,Tinggi,Sedang
+3,8.6,Putih Kekuningan,Sedang,Normal,Baik
+4,8.1,Putih,Sedang,Tinggi,Sedang
+5,7.1,Putih,Sedang,Normal,Baik
+3,9.8,Putih,Sedang,Normal,Baik
+5,8.6,Putih,Sedang,Normal,Baik
+2,9.5,Kuning,Sedang,Tinggi,Sedang
+5,10.2,Putih Kekuningan,Pendek,Tinggi,Sedang
+4,8.6,Putih,Panjang,Tinggi,Baik
+7,12.4,Coklat,Panjang,Tinggi,Buruk
+5,9.9,Putih,Panjang,Normal,Sedang
+3,6.9,Kuning,Panjang,Rendah,Sedang
+4,7.8,Putih,Sedang,Tinggi,Baik
+6,5.4,Putih,Pendek,Rendah,Sedang
+2,11.1,Kuning,Panjang,Rendah,Buruk
+4,7.4,Putih,Panjang,Normal,Baik
+4,9.2,Putih,Panjang,Normal,Baik
+3,8.9,Putih,Sedang,Normal,Baik
+7,8.3,Kuning,Panjang,Rendah,Buruk
+6,7.0,Putih Kekuningan,Sedang,Rendah,Sedang
+6,6.7,Kuning,Pendek,Rendah,Buruk
+5,4.9,Kuning,Pendek,Rendah,Sedang
+3,6.6,Kuning,Pendek,Normal,Sedang
+5,10.0,Putih Kekuningan,Sedang,Normal,Baik
+4,6.6,Putih,Panjang,Normal,Baik
+4,7.1,Putih,Panjang,Normal,Baik
+3,7.9,Putih,Panjang,Normal,Baik
+5,10.0,Putih,Sedang,Normal,Baik
+6,9.3,Kuning,Pendek,Tinggi,Buruk
+4,6.8,Putih,Sedang,Normal,Baik
+4,8.5,Putih Kekuningan,Panjang,Normal,Baik
+3,6.8,Putih,Sedang,Normal,Baik
+5,9.7,Putih,Panjang,Normal,Baik
+2,6.5,Putih,Pendek,Rendah,Sedang
+5,6.8,Putih,Panjang,Normal,Baik
+3,9.0,Kuning,Pendek,Rendah,Sedang
+6,4.8,Putih Kekuningan,Pendek,Rendah,Sedang
+5,8.5,Putih,Sedang,Normal,Baik
+4,10.1,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,8.0,Putih,Panjang,Normal,Baik
+2,5.7,Kuning,Sedang,Tinggi,Sedang
+2,2.9,Coklat,Panjang,Tinggi,Buruk
+3,6.1,Putih,Panjang,Normal,Baik
+5,7.1,Putih,Panjang,Normal,Baik
+2,11.9,Coklat,Pendek,Rendah,Buruk
+4,8.6,Putih,Panjang,Normal,Baik
+3,7.2,Kuning,Pendek,Rendah,Sedang
+7,5.8,Kuning,Pendek,Rendah,Buruk
+3,10.1,Putih,Panjang,Tinggi,Sedang
+2,6.8,Kuning,Pendek,Tinggi,Buruk
+5,9.8,Putih,Panjang,Normal,Baik
+3,9.1,Putih,Panjang,Tinggi,Baik
+5,9.7,Putih,Panjang,Normal,Baik
+3,6.7,Putih,Panjang,Normal,Baik
+6,6.0,Kuning,Pendek,Rendah,Sedang
+4,6.5,Putih,Panjang,Normal,Baik
+4,8.0,Putih,Sedang,Normal,Baik
+3,9.7,Putih Kekuningan,Sedang,Normal,Baik
+2,3.2,Coklat,Panjang,Tinggi,Buruk
+2,6.8,Kuning,Panjang,Tinggi,Buruk
+5,8.3,Putih,Sedang,Normal,Baik
+2,10.2,Putih Kekuningan,Panjang,Tinggi,Sedang
+5,6.2,Putih,Sedang,Normal,Baik
+4,9.1,Putih,Sedang,Normal,Baik
+2,9.0,Putih Kekuningan,Sedang,Tinggi,Sedang
+6,5.2,Kuning,Panjang,Tinggi,Sedang
+4,7.3,Putih,Panjang,Normal,Baik
+3,10.2,Putih Kekuningan,Sedang,Rendah,Sedang
+3,9.2,Putih Kekuningan,Pendek,Normal,Sedang
+4,5.1,Kuning,Sedang,Tinggi,Sedang
+7,8.6,Kuning,Panjang,Tinggi,Buruk
+3,9.6,Putih,Sedang,Normal,Baik
+5,6.2,Putih,Panjang,Normal,Baik
+3,9.8,Putih,Panjang,Normal,Baik
+5,8.0,Putih Kekuningan,Panjang,Rendah,Sedang
+5,8.6,Putih,Panjang,Normal,Baik
+3,10.2,Putih,Panjang,Tinggi,Sedang
+3,4.8,Putih Kekuningan,Pendek,Tinggi,Sedang
+3,9.4,Putih,Panjang,Normal,Baik
+3,7.7,Putih,Panjang,Normal,Baik
+6,8.2,Kuning,Pendek,Rendah,Sedang
+4,10.6,Putih Kekuningan,Sedang,Rendah,Sedang
+4,9.3,Putih,Sedang,Normal,Baik
+5,9.4,Putih,Panjang,Normal,Baik
+6,4.9,Kuning,Panjang,Tinggi,Sedang
+2,7.6,Kuning,Panjang,Tinggi,Sedang
+5,9.4,Putih,Panjang,Tinggi,Baik
+5,7.9,Kuning,Sedang,Rendah,Sedang
+7,4.8,Coklat,Pendek,Rendah,Buruk
+4,8.5,Putih,Sedang,Normal,Baik
+6,3.0,Coklat,Pendek,Rendah,Buruk
+4,6.2,Putih Kekuningan,Sedang,Rendah,Sedang
+4,9.5,Putih Kekuningan,Panjang,Rendah,Sedang
+5,8.3,Putih Kekuningan,Sedang,Normal,Baik
+7,7.3,Coklat,Pendek,Rendah,Buruk
+5,10.3,Kuning,Sedang,Rendah,Sedang
+6,11.8,Kuning,Panjang,Tinggi,Buruk
+2,5.9,Kuning,Sedang,Rendah,Sedang
+3,7.1,Putih,Panjang,Normal,Baik
+7,8.6,Kuning,Pendek,Tinggi,Buruk
+4,9.1,Putih,Sedang,Normal,Sedang
+3,6.9,Putih,Pendek,Tinggi,Sedang
+3,7.5,Putih,Sedang,Tinggi,Baik
+3,9.2,Putih Kekuningan,Sedang,Normal,Baik
+7,11.2,Coklat,Panjang,Rendah,Buruk
+2,9.8,Kuning,Panjang,Normal,Sedang
+3,7.8,Putih,Sedang,Normal,Baik
+7,11.0,Kuning,Panjang,Tinggi,Buruk
+2,7.7,Coklat,Pendek,Tinggi,Buruk
+3,6.6,Putih Kekuningan,Sedang,Rendah,Sedang
+5,8.9,Putih,Pendek,Normal,Sedang
+3,9.8,Putih,Sedang,Normal,Baik
+4,7.1,Putih Kekuningan,Panjang,Normal,Baik
+4,8.5,Putih,Panjang,Normal,Baik
+5,6.2,Putih,Sedang,Normal,Baik
+5,9.6,Putih,Panjang,Normal,Baik
+3,8.9,Putih,Sedang,Tinggi,Baik
+5,8.2,Putih Kekuningan,Panjang,Rendah,Sedang
+4,8.7,Putih,Panjang,Normal,Baik
+2,11.1,Coklat,Panjang,Tinggi,Buruk
+5,7.3,Putih,Panjang,Normal,Baik
+4,6.5,Putih,Sedang,Normal,Baik
+5,6.5,Putih,Sedang,Normal,Baik
+4,8.0,Putih,Panjang,Rendah,Sedang
+3,8.2,Putih Kekuningan,Panjang,Normal,Baik
+5,8.4,Putih,Panjang,Normal,Baik
+5,6.9,Putih,Sedang,Normal,Baik
+5,5.2,Kuning,Sedang,Rendah,Sedang
+5,5.6,Putih,Pendek,Tinggi,Sedang
+5,9.1,Putih,Panjang,Normal,Baik
+3,9.3,Putih,Sedang,Normal,Baik
+5,8.0,Putih,Panjang,Tinggi,Sedang
+3,8.7,Putih,Panjang,Tinggi,Baik
+7,12.3,Coklat,Pendek,Rendah,Buruk
+6,7.1,Putih Kekuningan,Sedang,Normal,Sedang
+5,9.9,Putih,Panjang,Normal,Baik
+3,6.9,Putih,Panjang,Normal,Baik
+5,7.0,Kuning,Pendek,Tinggi,Sedang
+3,6.8,Putih,Panjang,Normal,Baik
+5,6.5,Putih,Sedang,Normal,Baik
+7,6.9,Kuning,Pendek,Rendah,Buruk
+5,10.1,Kuning,Panjang,Rendah,Sedang
+5,7.8,Kuning,Sedang,Rendah,Sedang
+3,7.7,Putih,Panjang,Normal,Baik
+5,7.1,Putih Kekuningan,Panjang,Normal,Baik
+4,8.8,Putih,Panjang,Tinggi,Baik
+5,8.9,Putih Kekuningan,Panjang,Normal,Baik
+5,6.4,Putih,Sedang,Normal,Baik
+6,6.5,Putih Kekuningan,Sedang,Tinggi,Sedang
+6,7.0,Coklat,Panjang,Tinggi,Buruk
+4,7.2,Putih,Panjang,Normal,Baik
+2,8.6,Kuning,Pendek,Tinggi,Sedang
+4,9.2,Putih,Panjang,Normal,Baik
+3,9.4,Putih,Sedang,Normal,Baik
+4,6.1,Putih,Sedang,Tinggi,Baik
+5,6.9,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,9.2,Putih,Panjang,Tinggi,Baik
+7,11.8,Kuning,Panjang,Tinggi,Buruk
+3,8.8,Kuning,Panjang,Normal,Sedang
+5,9.4,Putih,Panjang,Normal,Baik
+3,7.9,Putih,Panjang,Normal,Baik
+6,6.0,Kuning,Panjang,Rendah,Sedang
+3,7.9,Putih,Pendek,Rendah,Sedang
+6,6.3,Coklat,Pendek,Rendah,Buruk
+7,6.0,Coklat,Panjang,Tinggi,Buruk
+3,7.0,Putih,Panjang,Normal,Baik
+6,9.5,Kuning,Sedang,Tinggi,Sedang
+3,6.5,Putih Kekuningan,Panjang,Normal,Sedang
+2,6.6,Kuning,Panjang,Tinggi,Buruk
+4,7.0,Putih,Sedang,Normal,Baik
+3,10.7,Kuning,Pendek,Tinggi,Sedang
+2,11.1,Kuning,Panjang,Rendah,Buruk
+7,4.3,Coklat,Panjang,Rendah,Buruk
+4,9.5,Kuning,Panjang,Rendah,Sedang
+3,7.1,Putih,Panjang,Normal,Baik
+4,6.7,Putih,Sedang,Normal,Baik
+4,6.4,Putih,Panjang,Normal,Baik
+5,9.2,Putih Kekuningan,Pendek,Normal,Sedang
+5,7.0,Putih,Panjang,Normal,Baik
+2,8.8,Putih,Pendek,Tinggi,Sedang
+4,8.3,Putih,Panjang,Normal,Baik
+5,9.1,Putih,Sedang,Normal,Baik
+6,3.7,Coklat,Panjang,Tinggi,Buruk
+5,10.0,Putih,Panjang,Normal,Baik
+2,10.9,Coklat,Pendek,Rendah,Buruk
+5,8.8,Putih,Panjang,Rendah,Sedang
+7,9.4,Coklat,Pendek,Tinggi,Buruk
+3,4.7,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,6.3,Putih,Panjang,Normal,Baik
+6,12.2,Kuning,Pendek,Tinggi,Buruk
+5,6.2,Putih,Panjang,Tinggi,Baik
+7,4.0,Kuning,Pendek,Rendah,Buruk
+5,8.7,Putih,Panjang,Normal,Sedang
+5,6.5,Putih,Sedang,Tinggi,Baik
+2,7.1,Kuning,Pendek,Rendah,Buruk
+5,9.2,Putih,Sedang,Normal,Baik
+7,9.3,Coklat,Pendek,Rendah,Buruk
+3,9.1,Putih,Panjang,Normal,Baik
+4,6.7,Putih,Sedang,Normal,Baik
+2,3.8,Coklat,Pendek,Rendah,Buruk
+2,2.6,Kuning,Pendek,Tinggi,Buruk
+4,8.8,Putih,Panjang,Normal,Baik
+3,8.4,Putih,Sedang,Normal,Baik
+2,8.6,Putih,Sedang,Rendah,Sedang
+3,6.8,Putih Kekuningan,Sedang,Normal,Baik
+7,7.6,Coklat,Pendek,Tinggi,Buruk
+3,9.2,Putih,Panjang,Normal,Baik
+3,6.2,Putih,Sedang,Normal,Baik
+4,6.2,Putih,Sedang,Normal,Baik
+5,6.5,Putih,Panjang,Normal,Baik
+3,9.0,Putih,Sedang,Normal,Baik
+3,6.9,Putih,Sedang,Normal,Baik
+4,8.3,Putih,Panjang,Normal,Baik
+6,4.3,Coklat,Pendek,Tinggi,Buruk
+4,10.8,Putih Kekuningan,Sedang,Normal,Sedang
+5,6.2,Putih,Panjang,Normal,Baik
+4,6.9,Putih,Sedang,Normal,Baik
+6,10.4,Kuning,Panjang,Normal,Sedang
+5,8.0,Putih Kekuningan,Panjang,Normal,Baik
+5,7.7,Putih,Sedang,Normal,Baik
+6,10.7,Kuning,Pendek,Rendah,Sedang
+2,12.4,Kuning,Panjang,Tinggi,Buruk
+2,7.4,Putih Kekuningan,Pendek,Tinggi,Sedang
+5,10.7,Putih Kekuningan,Sedang,Rendah,Sedang
+3,6.1,Putih,Sedang,Normal,Baik
+7,8.3,Coklat,Panjang,Rendah,Buruk
+6,4.3,Coklat,Panjang,Rendah,Buruk
+2,6.3,Coklat,Pendek,Tinggi,Buruk
+4,8.8,Putih,Sedang,Normal,Baik
+4,8.9,Putih,Panjang,Normal,Baik
+4,7.9,Putih,Panjang,Normal,Baik
+2,8.1,Putih Kekuningan,Pendek,Rendah,Sedang
+3,8.6,Putih,Sedang,Normal,Baik
+4,6.8,Putih,Panjang,Tinggi,Sedang
+3,6.3,Putih,Panjang,Normal,Baik
+6,9.6,Coklat,Panjang,Tinggi,Buruk
+7,10.6,Kuning,Pendek,Tinggi,Buruk
+4,9.6,Putih,Sedang,Normal,Baik
+5,6.6,Putih,Sedang,Normal,Baik
+4,7.2,Kuning,Panjang,Normal,Sedang
+5,7.4,Kuning,Pendek,Rendah,Sedang
+3,9.5,Putih,Panjang,Normal,Baik
+5,9.1,Putih,Panjang,Normal,Baik
+4,5.6,Putih,Pendek,Rendah,Sedang
+4,9.1,Putih,Panjang,Normal,Baik
+7,11.7,Coklat,Pendek,Rendah,Buruk
+7,11.5,Kuning,Pendek,Rendah,Buruk
+4,8.3,Putih,Panjang,Normal,Baik
+2,8.8,Putih,Pendek,Rendah,Sedang
+3,8.1,Putih,Sedang,Normal,Baik
+3,10.7,Putih,Pendek,Normal,Sedang
+7,12.3,Coklat,Panjang,Tinggi,Buruk
+7,9.2,Coklat,Panjang,Rendah,Buruk
+2,5.4,Kuning,Pendek,Rendah,Sedang
+5,9.4,Putih,Sedang,Normal,Baik
+3,8.3,Putih Kekuningan,Sedang,Normal,Sedang
+5,9.4,Putih,Sedang,Tinggi,Baik
+4,7.3,Putih,Sedang,Tinggi,Baik
+3,8.9,Putih,Panjang,Normal,Baik
+4,7.2,Putih,Sedang,Normal,Baik
+7,12.4,Coklat,Panjang,Rendah,Buruk
+6,9.8,Coklat,Pendek,Rendah,Buruk
+4,7.9,Putih,Panjang,Normal,Baik
+6,3.4,Coklat,Panjang,Tinggi,Buruk
+4,8.8,Putih,Sedang,Normal,Baik
+6,8.0,Kuning,Panjang,Tinggi,Buruk
+5,6.0,Putih Kekuningan,Pendek,Rendah,Sedang
+5,9.3,Putih,Panjang,Normal,Baik
+3,4.7,Putih,Sedang,Normal,Sedang
+4,8.3,Kuning,Sedang,Rendah,Sedang
+5,10.8,Putih Kekuningan,Sedang,Tinggi,Sedang
+2,10.0,Putih Kekuningan,Panjang,Normal,Sedang
+4,9.5,Putih,Sedang,Normal,Baik
+5,9.6,Putih,Panjang,Normal,Baik
+2,7.8,Kuning,Pendek,Normal,Sedang
+3,8.0,Putih,Panjang,Rendah,Sedang
+5,8.8,Putih,Panjang,Normal,Baik
+5,7.1,Putih,Panjang,Normal,Baik
+2,4.7,Kuning,Pendek,Rendah,Buruk
+3,6.5,Putih,Sedang,Normal,Baik
+4,6.6,Putih,Panjang,Normal,Baik
+5,9.3,Putih,Sedang,Normal,Baik
+3,6.5,Putih,Sedang,Normal,Baik
+5,4.8,Putih Kekuningan,Pendek,Tinggi,Sedang
+2,7.5,Putih,Pendek,Normal,Sedang
+3,9.0,Putih,Sedang,Normal,Baik
+5,7.4,Putih,Panjang,Tinggi,Baik
+3,9.4,Putih,Sedang,Normal,Baik
+5,9.1,Putih,Sedang,Tinggi,Baik
+5,6.0,Putih,Sedang,Tinggi,Baik
+6,6.2,Kuning,Panjang,Rendah,Buruk
+4,9.9,Putih,Sedang,Normal,Baik
+4,5.3,Putih Kekuningan,Panjang,Normal,Sedang
+4,9.1,Kuning,Panjang,Normal,Sedang
+4,6.5,Putih,Panjang,Normal,Baik
+2,8.0,Coklat,Panjang,Rendah,Buruk
+6,11.9,Coklat,Pendek,Rendah,Buruk
+6,9.2,Coklat,Panjang,Rendah,Buruk
+4,7.6,Putih,Sedang,Normal,Baik
+2,3.1,Kuning,Panjang,Rendah,Buruk
+5,5.3,Putih,Panjang,Rendah,Sedang
+5,9.1,Putih,Panjang,Normal,Baik
+5,10.9,Kuning,Sedang,Normal,Sedang
+2,5.3,Putih,Sedang,Normal,Sedang
+3,4.7,Kuning,Pendek,Normal,Sedang
+2,10.8,Putih,Panjang,Tinggi,Sedang
+4,8.5,Putih,Sedang,Normal,Baik
+5,9.7,Putih Kekuningan,Sedang,Tinggi,Sedang
+6,6.2,Putih,Panjang,Tinggi,Sedang
+3,10.0,Putih,Sedang,Normal,Baik
+4,7.8,Putih,Sedang,Normal,Baik
+6,11.3,Kuning,Panjang,Tinggi,Buruk
+5,7.6,Putih,Panjang,Normal,Baik
+6,7.6,Kuning,Pendek,Tinggi,Sedang
+4,8.0,Putih Kekuningan,Panjang,Normal,Baik
+3,6.1,Putih,Panjang,Normal,Baik
+2,9.5,Kuning,Sedang,Rendah,Sedang
+4,10.0,Putih,Sedang,Normal,Baik
+5,7.2,Putih,Sedang,Normal,Baik
+3,6.1,Putih,Panjang,Normal,Baik
+5,9.6,Putih,Panjang,Normal,Baik
+6,8.2,Coklat,Pendek,Tinggi,Buruk
+5,6.8,Putih,Panjang,Normal,Baik
+4,6.8,Putih,Sedang,Normal,Baik
+4,6.2,Putih,Panjang,Rendah,Sedang
+7,9.9,Kuning,Pendek,Tinggi,Buruk
+5,9.2,Putih,Sedang,Normal,Baik
+4,8.0,Putih,Panjang,Normal,Baik
+5,8.1,Putih,Sedang,Normal,Baik
+6,10.1,Kuning,Sedang,Normal,Sedang
+5,6.2,Kuning,Panjang,Tinggi,Sedang
+6,11.8,Kuning,Pendek,Tinggi,Buruk
+3,5.5,Kuning,Sedang,Rendah,Sedang
+3,8.5,Putih,Panjang,Normal,Baik
+4,9.0,Putih Kekuningan,Sedang,Normal,Sedang
+3,6.1,Putih,Panjang,Normal,Baik
+5,7.2,Putih Kekuningan,Pendek,Normal,Sedang
+3,7.0,Putih,Sedang,Normal,Baik
+5,7.9,Putih,Sedang,Normal,Baik
+3,9.6,Putih,Panjang,Normal,Baik
+6,11.9,Kuning,Pendek,Rendah,Buruk
+6,10.6,Kuning,Panjang,Tinggi,Sedang
+7,5.0,Kuning,Pendek,Rendah,Buruk
+4,6.6,Kuning,Panjang,Rendah,Sedang
+7,4.9,Coklat,Pendek,Rendah,Buruk
+3,9.9,Putih,Panjang,Normal,Baik
+5,7.5,Putih Kekuningan,Panjang,Normal,Baik
+3,10.8,Putih Kekuningan,Sedang,Rendah,Sedang
+4,4.6,Kuning,Pendek,Tinggi,Sedang
+2,9.0,Kuning,Pendek,Rendah,Sedang
+4,8.7,Kuning,Sedang,Tinggi,Sedang
+3,9.4,Putih,Panjang,Tinggi,Baik
+6,3.4,Kuning,Panjang,Rendah,Buruk
+2,11.7,Coklat,Panjang,Rendah,Buruk
+3,9.3,Putih Kekuningan,Panjang,Normal,Baik
+6,9.7,Kuning,Pendek,Tinggi,Buruk
+4,7.2,Kuning,Panjang,Tinggi,Sedang
+5,6.1,Putih,Sedang,Normal,Baik
+2,2.5,Kuning,Panjang,Tinggi,Buruk
+2,5.5,Kuning,Panjang,Tinggi,Sedang
+6,9.0,Putih,Sedang,Rendah,Sedang
+2,5.1,Coklat,Panjang,Rendah,Buruk
+4,6.7,Putih,Sedang,Normal,Baik
+5,8.6,Putih,Sedang,Tinggi,Baik
+5,9.4,Putih,Panjang,Normal,Baik
+4,6.7,Putih,Sedang,Normal,Baik
+4,9.3,Putih,Sedang,Normal,Baik
+4,7.2,Putih,Sedang,Normal,Baik
+3,10.0,Putih,Sedang,Normal,Baik
+3,6.1,Putih Kekuningan,Sedang,Normal,Baik
+6,8.3,Coklat,Pendek,Rendah,Buruk
+4,10.8,Putih,Panjang,Normal,Sedang
+5,9.3,Putih,Pendek,Normal,Sedang
+2,6.7,Putih Kekuningan,Sedang,Rendah,Sedang
+7,12.2,Kuning,Pendek,Tinggi,Buruk
+5,6.5,Putih,Panjang,Rendah,Sedang
+5,6.2,Putih,Sedang,Normal,Baik
+6,3.8,Coklat,Panjang,Rendah,Buruk
+4,6.2,Putih,Panjang,Normal,Baik
+6,11.5,Coklat,Panjang,Tinggi,Buruk
+3,7.3,Putih Kekuningan,Sedang,Normal,Baik
+7,10.5,Kuning,Pendek,Rendah,Buruk
+3,6.1,Putih,Panjang,Normal,Baik
+6,2.9,Coklat,Panjang,Tinggi,Buruk
+3,5.3,Putih Kekuningan,Pendek,Rendah,Sedang
+3,9.0,Putih,Sedang,Normal,Baik
+7,10.2,Kuning,Panjang,Rendah,Buruk
+4,8.7,Putih,Sedang,Normal,Baik
+2,6.4,Kuning,Panjang,Rendah,Buruk
+4,9.3,Putih,Panjang,Normal,Baik
+5,6.0,Putih Kekuningan,Panjang,Normal,Baik
+6,5.3,Putih Kekuningan,Panjang,Rendah,Sedang
+3,9.0,Putih,Panjang,Normal,Baik
+3,9.9,Putih,Sedang,Normal,Baik
+4,9.1,Putih,Sedang,Normal,Baik
+5,9.3,Putih,Panjang,Tinggi,Sedang
+5,6.4,Putih,Sedang,Normal,Baik
+6,5.2,Coklat,Pendek,Tinggi,Buruk
+7,4.4,Coklat,Pendek,Rendah,Buruk
+5,8.9,Kuning,Panjang,Tinggi,Sedang
+4,8.1,Putih,Sedang,Normal,Baik
+4,7.2,Putih Kekuningan,Panjang,Normal,Baik
+4,8.2,Kuning,Pendek,Normal,Sedang
+6,7.3,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,6.8,Kuning,Pendek,Tinggi,Sedang
+5,8.6,Putih,Sedang,Normal,Baik
+4,9.5,Putih,Panjang,Normal,Baik
+4,7.4,Putih Kekuningan,Sedang,Normal,Baik
+5,7.0,Putih,Panjang,Normal,Baik
+3,6.1,Putih,Panjang,Normal,Baik
+7,8.5,Coklat,Panjang,Tinggi,Buruk
+5,9.7,Putih Kekuningan,Pendek,Normal,Sedang
+3,9.3,Putih,Sedang,Normal,Baik
+5,6.6,Putih,Sedang,Normal,Baik
+3,7.6,Putih Kekuningan,Pendek,Normal,Sedang
+7,9.5,Coklat,Panjang,Rendah,Buruk
+7,4.9,Coklat,Panjang,Rendah,Buruk
+3,8.5,Putih,Panjang,Normal,Baik
+6,9.3,Putih,Pendek,Rendah,Sedang
+5,8.4,Putih,Panjang,Normal,Baik
+3,7.7,Putih,Sedang,Normal,Baik
+5,5.3,Kuning,Panjang,Rendah,Sedang
+4,6.1,Putih,Sedang,Normal,Baik
+5,6.9,Putih Kekuningan,Panjang,Tinggi,Baik
+7,9.1,Kuning,Panjang,Tinggi,Buruk
+7,9.0,Coklat,Panjang,Rendah,Buruk
+4,9.0,Putih Kekuningan,Panjang,Rendah,Sedang
+3,6.6,Putih,Panjang,Tinggi,Baik
+3,5.9,Putih Kekuningan,Pendek,Rendah,Sedang
+6,9.3,Kuning,Pendek,Rendah,Buruk
+3,8.5,Putih,Sedang,Normal,Baik
+6,10.2,Coklat,Pendek,Rendah,Buruk
+5,9.7,Putih Kekuningan,Pendek,Tinggi,Sedang
+2,9.9,Putih Kekuningan,Panjang,Normal,Sedang
+3,9.5,Putih Kekuningan,Sedang,Normal,Baik
+6,7.7,Putih Kekuningan,Pendek,Tinggi,Sedang
+3,6.5,Putih,Panjang,Normal,Baik
+4,7.4,Putih,Sedang,Normal,Baik
+5,6.8,Kuning,Pendek,Normal,Sedang
+6,7.2,Putih Kekuningan,Pendek,Rendah,Sedang
+4,9.6,Putih Kekuningan,Panjang,Tinggi,Baik
+3,8.9,Putih,Sedang,Normal,Baik
+3,7.7,Putih,Sedang,Normal,Baik
+6,4.9,Kuning,Panjang,Tinggi,Sedang
+6,6.7,Coklat,Panjang,Tinggi,Buruk
+4,9.6,Putih,Sedang,Normal,Baik
+3,9.6,Putih,Panjang,Normal,Baik
+7,6.5,Kuning,Panjang,Rendah,Buruk
+4,7.6,Putih,Sedang,Normal,Baik
+3,5.1,Kuning,Sedang,Tinggi,Sedang
+5,6.6,Putih,Panjang,Normal,Baik
+5,10.9,Putih Kekuningan,Panjang,Normal,Sedang
+6,8.8,Coklat,Pendek,Rendah,Buruk
+2,7.4,Kuning,Panjang,Normal,Sedang
+3,9.7,Kuning,Panjang,Tinggi,Sedang
+7,9.2,Kuning,Panjang,Tinggi,Buruk
+5,8.3,Putih,Panjang,Normal,Baik
+4,8.1,Putih,Panjang,Normal,Baik
+4,9.3,Putih,Sedang,Normal,Baik
+3,7.8,Putih,Panjang,Normal,Baik
+5,10.2,Kuning,Sedang,Tinggi,Sedang
+4,8.8,Putih Kekuningan,Panjang,Normal,Baik
+3,7.9,Putih,Sedang,Normal,Baik
+2,9.4,Kuning,Sedang,Normal,Sedang
+5,5.2,Putih,Panjang,Rendah,Sedang
+3,6.5,Putih,Panjang,Normal,Baik
+3,5.4,Kuning,Sedang,Normal,Sedang
+6,11.4,Kuning,Pendek,Tinggi,Buruk
+5,7.4,Putih,Panjang,Normal,Baik
+4,9.6,Putih,Panjang,Normal,Baik
+2,10.1,Coklat,Panjang,Tinggi,Buruk
+5,7.3,Putih,Panjang,Normal,Baik
+6,7.9,Coklat,Panjang,Rendah,Buruk
+7,2.7,Coklat,Pendek,Rendah,Buruk
+5,8.2,Putih,Sedang,Normal,Baik
+2,5.3,Kuning,Pendek,Normal,Sedang
+3,7.0,Putih,Panjang,Normal,Baik
+4,7.1,Putih Kekuningan,Sedang,Normal,Sedang
+3,7.7,Putih,Panjang,Normal,Baik
+3,8.2,Putih,Sedang,Normal,Baik
+4,9.8,Putih,Sedang,Normal,Baik
+3,8.9,Putih,Sedang,Normal,Baik
+4,7.0,Putih Kekuningan,Sedang,Normal,Baik
+5,8.3,Putih,Panjang,Tinggi,Baik
+4,7.9,Putih,Panjang,Normal,Baik
+2,6.2,Kuning,Panjang,Normal,Sedang
+5,8.6,Putih,Panjang,Normal,Baik
+7,4.5,Kuning,Panjang,Rendah,Buruk
+7,12.0,Coklat,Pendek,Rendah,Buruk
+7,5.4,Kuning,Pendek,Rendah,Buruk
+6,5.2,Coklat,Panjang,Tinggi,Buruk
+2,8.4,Coklat,Pendek,Rendah,Buruk
+6,5.0,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,8.9,Putih Kekuningan,Panjang,Normal,Baik
+4,10.2,Putih,Panjang,Rendah,Sedang
+7,7.0,Kuning,Panjang,Tinggi,Buruk
+5,7.3,Putih Kekuningan,Sedang,Normal,Baik
+4,6.0,Putih,Sedang,Normal,Baik
+7,7.4,Coklat,Pendek,Rendah,Buruk
+5,8.9,Putih,Sedang,Tinggi,Sedang
+3,9.4,Putih,Sedang,Normal,Baik
+3,7.8,Putih,Sedang,Normal,Baik
+4,5.7,Kuning,Panjang,Rendah,Sedang
+2,4.8,Coklat,Panjang,Rendah,Buruk
+5,8.8,Putih,Sedang,Tinggi,Baik
+2,10.2,Kuning,Panjang,Rendah,Sedang
+3,8.6,Putih,Sedang,Normal,Baik
+3,6.5,Putih Kekuningan,Sedang,Normal,Baik
+4,5.7,Kuning,Pendek,Tinggi,Sedang
+6,6.1,Kuning,Sedang,Normal,Sedang
+7,9.2,Kuning,Panjang,Tinggi,Buruk
+6,5.2,Coklat,Panjang,Tinggi,Buruk
+2,10.2,Putih Kekuningan,Pendek,Rendah,Sedang
+7,7.0,Kuning,Panjang,Rendah,Buruk
+5,9.2,Putih Kekuningan,Sedang,Tinggi,Baik
+3,9.7,Putih,Panjang,Normal,Baik
+2,4.7,Putih,Pendek,Tinggi,Sedang
+6,10.9,Kuning,Pendek,Tinggi,Buruk
+4,9.3,Putih,Sedang,Tinggi,Baik
+7,6.9,Kuning,Panjang,Rendah,Buruk
+3,9.7,Putih,Sedang,Normal,Baik
+4,6.2,Putih,Panjang,Normal,Baik
+6,4.8,Putih,Sedang,Normal,Sedang
+5,6.0,Kuning,Panjang,Tinggi,Sedang
+4,7.9,Putih,Sedang,Normal,Baik
+2,7.0,Coklat,Pendek,Rendah,Buruk
+5,8.9,Putih,Sedang,Tinggi,Baik
+5,7.0,Putih,Panjang,Normal,Baik
+3,6.2,Putih,Panjang,Normal,Baik
+4,6.5,Kuning,Pendek,Normal,Sedang
+6,6.7,Putih,Pendek,Tinggi,Sedang
+3,4.9,Kuning,Panjang,Normal,Sedang
+3,9.9,Putih,Sedang,Normal,Baik
+5,7.9,Putih,Panjang,Normal,Baik
+5,8.3,Putih,Panjang,Normal,Baik
+4,9.5,Putih Kekuningan,Panjang,Normal,Baik
+3,8.8,Putih,Sedang,Normal,Baik
+4,9.7,Putih,Pendek,Rendah,Sedang
+3,7.5,Putih,Sedang,Normal,Baik
+4,6.8,Putih,Panjang,Normal,Baik
+3,7.1,Putih,Panjang,Normal,Baik
+5,7.0,Putih,Sedang,Normal,Baik
+2,10.8,Kuning,Panjang,Rendah,Buruk
+3,7.2,Putih,Panjang,Normal,Baik
+7,11.3,Kuning,Pendek,Rendah,Buruk
+2,10.4,Kuning,Panjang,Tinggi,Buruk
+4,9.9,Putih,Sedang,Normal,Baik
+6,6.4,Putih Kekuningan,Sedang,Normal,Sedang
+4,9.5,Putih,Panjang,Normal,Baik
+4,9.2,Putih,Sedang,Normal,Baik
+6,6.9,Kuning,Sedang,Normal,Sedang
+4,8.1,Putih,Panjang,Normal,Baik
+6,8.7,Putih Kekuningan,Pendek,Normal,Sedang
+3,7.1,Putih,Sedang,Rendah,Sedang
+4,6.2,Putih Kekuningan,Pendek,Normal,Sedang
+5,7.4,Putih,Panjang,Normal,Baik
+4,7.9,Putih,Panjang,Normal,Baik
+3,7.8,Putih,Sedang,Normal,Baik
+5,8.1,Putih,Panjang,Tinggi,Baik
+3,7.4,Putih,Panjang,Normal,Baik
+4,9.0,Putih,Panjang,Normal,Baik
+3,11.0,Kuning,Panjang,Tinggi,Sedang
+2,10.2,Coklat,Panjang,Tinggi,Buruk
+7,10.1,Kuning,Panjang,Rendah,Buruk
+2,4.8,Kuning,Panjang,Rendah,Buruk
+6,9.4,Kuning,Sedang,Rendah,Sedang
+6,11.0,Coklat,Panjang,Rendah,Buruk
+5,6.1,Putih,Sedang,Normal,Baik
+5,9.8,Putih,Sedang,Normal,Sedang
+5,9.0,Putih,Panjang,Normal,Baik
+3,9.7,Putih,Panjang,Normal,Baik
+7,8.2,Coklat,Panjang,Rendah,Buruk
+2,7.8,Kuning,Panjang,Rendah,Buruk
+4,8.6,Putih,Sedang,Normal,Baik
+2,9.9,Kuning,Sedang,Normal,Sedang
+3,9.6,Putih,Sedang,Normal,Baik
+2,7.5,Putih,Panjang,Normal,Sedang
+4,7.6,Putih Kekuningan,Sedang,Normal,Baik
+2,7.0,Putih Kekuningan,Pendek,Normal,Sedang
+5,8.7,Putih,Panjang,Normal,Baik
+5,6.3,Putih Kekuningan,Pendek,Rendah,Sedang
+4,8.4,Putih,Panjang,Tinggi,Baik
+6,7.1,Kuning,Pendek,Tinggi,Buruk
+5,6.8,Kuning,Sedang,Rendah,Sedang
+3,7.2,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,9.6,Putih,Sedang,Normal,Baik
+2,11.4,Kuning,Panjang,Tinggi,Buruk
+2,9.0,Kuning,Pendek,Rendah,Sedang
+5,6.5,Putih,Sedang,Normal,Baik
+6,7.0,Coklat,Pendek,Rendah,Buruk
+2,8.7,Kuning,Panjang,Rendah,Sedang
+5,7.6,Putih,Sedang,Normal,Baik
+3,7.3,Putih,Panjang,Normal,Baik
+5,7.0,Putih Kekuningan,Sedang,Normal,Baik
+3,6.7,Putih,Sedang,Normal,Baik
+5,7.6,Putih,Sedang,Normal,Baik
+4,6.7,Putih,Sedang,Normal,Baik
+5,9.2,Putih,Sedang,Normal,Baik
+3,8.4,Putih,Panjang,Normal,Baik
+6,11.6,Kuning,Pendek,Rendah,Buruk
+3,7.3,Putih,Sedang,Normal,Baik
+7,4.2,Kuning,Pendek,Tinggi,Buruk
+4,6.6,Kuning,Pendek,Tinggi,Sedang
+5,7.6,Putih,Sedang,Normal,Baik
+3,6.1,Putih,Sedang,Normal,Baik
+2,8.8,Putih,Panjang,Tinggi,Sedang
+3,9.5,Putih,Panjang,Tinggi,Baik
+5,9.2,Putih Kekuningan,Sedang,Normal,Baik
+4,9.9,Putih,Sedang,Normal,Baik
+4,10.9,Kuning,Sedang,Normal,Sedang
+5,9.6,Putih,Sedang,Normal,Baik
+2,6.0,Kuning,Pendek,Rendah,Sedang
+4,9.0,Putih,Sedang,Normal,Baik
+3,5.5,Putih Kekuningan,Panjang,Normal,Sedang
+5,8.4,Putih Kekuningan,Panjang,Normal,Baik
+3,8.1,Putih Kekuningan,Panjang,Normal,Baik
+5,7.3,Putih,Sedang,Tinggi,Baik
+3,9.7,Kuning,Panjang,Normal,Sedang
+5,7.9,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,6.3,Putih,Sedang,Tinggi,Baik
+3,8.4,Putih,Sedang,Normal,Baik
+5,7.9,Putih,Sedang,Normal,Baik
+3,7.2,Putih,Sedang,Normal,Baik
+2,12.0,Coklat,Panjang,Tinggi,Buruk
+4,7.7,Putih,Panjang,Normal,Baik
+6,2.7,Coklat,Panjang,Rendah,Buruk
+4,8.4,Putih Kekuningan,Panjang,Tinggi,Sedang
+4,7.9,Putih,Panjang,Normal,Baik
+4,5.4,Putih,Pendek,Normal,Sedang
+2,2.6,Coklat,Panjang,Tinggi,Buruk
+6,12.2,Coklat,Panjang,Tinggi,Buruk
+5,6.3,Putih,Sedang,Normal,Baik
+3,9.5,Putih,Panjang,Rendah,Sedang
+5,8.6,Putih,Panjang,Normal,Sedang
+5,9.3,Putih Kekuningan,Sedang,Normal,Sedang
+6,8.8,Kuning,Pendek,Tinggi,Buruk
+3,6.2,Kuning,Panjang,Tinggi,Sedang
+2,3.7,Kuning,Panjang,Tinggi,Buruk
+2,7.9,Putih Kekuningan,Sedang,Normal,Sedang
+6,9.4,Coklat,Panjang,Tinggi,Buruk
+2,5.2,Kuning,Sedang,Normal,Sedang
+3,9.7,Putih,Panjang,Normal,Baik
+4,6.0,Putih,Panjang,Normal,Baik
+5,5.6,Putih,Pendek,Tinggi,Sedang
+4,6.7,Putih Kekuningan,Panjang,Normal,Baik
+3,6.2,Putih,Sedang,Normal,Baik
+6,6.9,Kuning,Pendek,Rendah,Buruk
+4,6.5,Putih,Sedang,Normal,Baik
+2,4.6,Putih,Pendek,Tinggi,Sedang
+2,5.1,Kuning,Pendek,Rendah,Sedang
+4,10.6,Putih,Sedang,Tinggi,Sedang
+4,8.7,Putih,Panjang,Normal,Baik
+7,6.5,Kuning,Panjang,Tinggi,Buruk
+2,7.1,Coklat,Pendek,Rendah,Buruk
+6,6.3,Kuning,Pendek,Rendah,Sedang
+5,7.8,Kuning,Pendek,Normal,Sedang
+6,2.7,Coklat,Pendek,Tinggi,Buruk
+3,8.4,Putih,Panjang,Tinggi,Sedang
+6,6.8,Coklat,Pendek,Tinggi,Buruk
+3,8.8,Putih,Sedang,Normal,Baik
+6,10.8,Coklat,Pendek,Tinggi,Buruk
+6,9.1,Kuning,Pendek,Rendah,Buruk
+5,8.8,Putih,Sedang,Normal,Baik
+6,10.2,Kuning,Panjang,Tinggi,Buruk
+7,3.7,Kuning,Panjang,Rendah,Buruk
+6,11.2,Kuning,Panjang,Tinggi,Buruk
+7,9.9,Coklat,Panjang,Rendah,Buruk
+3,7.2,Putih,Panjang,Normal,Baik
+7,11.9,Coklat,Pendek,Tinggi,Buruk
+7,9.9,Coklat,Pendek,Rendah,Buruk
+6,5.7,Coklat,Pendek,Rendah,Buruk
+3,8.2,Putih,Sedang,Normal,Baik
+3,8.0,Putih,Panjang,Normal,Baik
+2,8.4,Putih,Panjang,Tinggi,Sedang
+5,8.3,Putih,Sedang,Normal,Baik
+5,4.9,Putih,Pendek,Tinggi,Sedang
+5,9.7,Putih,Sedang,Tinggi,Baik
+6,9.8,Coklat,Pendek,Rendah,Buruk
+4,7.2,Putih,Sedang,Rendah,Sedang
+5,8.9,Putih,Sedang,Normal,Baik
+2,5.4,Kuning,Pendek,Tinggi,Sedang
+5,6.7,Putih,Panjang,Normal,Baik
+3,9.2,Putih,Sedang,Normal,Baik
+2,9.3,Kuning,Panjang,Tinggi,Buruk
+3,10.5,Putih Kekuningan,Sedang,Rendah,Sedang
+3,6.5,Putih,Panjang,Normal,Baik
+7,9.7,Kuning,Pendek,Rendah,Buruk
+4,7.2,Putih,Sedang,Normal,Baik
+5,10.0,Putih,Sedang,Normal,Baik
+7,6.3,Coklat,Panjang,Rendah,Buruk
+3,6.5,Putih,Sedang,Normal,Baik
+6,7.6,Kuning,Panjang,Normal,Sedang
+2,6.3,Coklat,Panjang,Rendah,Buruk
+3,8.9,Putih,Sedang,Normal,Baik
+5,8.1,Kuning,Panjang,Rendah,Sedang
+5,8.2,Putih,Sedang,Normal,Baik
+5,9.6,Putih,Sedang,Normal,Baik
+4,6.5,Putih,Sedang,Normal,Baik
+4,9.4,Putih,Sedang,Normal,Baik
+5,6.7,Putih Kekuningan,Sedang,Normal,Baik
+5,9.6,Putih,Panjang,Normal,Baik
+4,7.9,Putih,Panjang,Tinggi,Sedang
+2,8.8,Putih Kekuningan,Pendek,Normal,Sedang
+4,9.4,Putih,Sedang,Normal,Baik
+4,7.1,Putih,Panjang,Normal,Baik
+4,8.6,Putih,Panjang,Normal,Baik
+4,9.8,Putih,Sedang,Normal,Baik
+3,9.1,Kuning,Panjang,Tinggi,Sedang
+7,4.1,Kuning,Panjang,Tinggi,Buruk
+5,7.0,Putih,Sedang,Normal,Baik
+4,8.6,Putih,Panjang,Normal,Baik
+3,7.1,Putih,Sedang,Normal,Baik
+3,6.7,Putih,Panjang,Normal,Baik
+2,7.8,Coklat,Panjang,Rendah,Buruk
+2,5.7,Coklat,Pendek,Tinggi,Buruk
+7,12.2,Coklat,Panjang,Rendah,Buruk
+5,8.1,Putih,Sedang,Normal,Baik
+4,4.8,Kuning,Panjang,Rendah,Sedang
+3,8.9,Putih,Panjang,Rendah,Sedang
+4,9.2,Putih,Panjang,Tinggi,Baik
+3,6.5,Putih Kekuningan,Sedang,Rendah,Sedang
+2,8.6,Putih Kekuningan,Panjang,Normal,Sedang
+2,8.3,Kuning,Panjang,Tinggi,Buruk
+2,12.1,Coklat,Pendek,Tinggi,Buruk
+6,9.0,Putih,Pendek,Tinggi,Sedang
+5,6.0,Putih,Panjang,Normal,Baik
+6,8.9,Putih Kekuningan,Panjang,Rendah,Sedang
+7,11.8,Kuning,Pendek,Rendah,Buruk
+3,8.1,Putih Kekuningan,Panjang,Normal,Baik
+3,7.4,Putih,Sedang,Normal,Baik
+4,5.9,Kuning,Panjang,Tinggi,Sedang
+4,9.7,Putih Kekuningan,Sedang,Tinggi,Baik
+6,3.1,Kuning,Panjang,Tinggi,Buruk
+3,6.0,Putih,Sedang,Normal,Baik
+4,8.0,Putih,Sedang,Normal,Baik
+2,4.1,Coklat,Pendek,Tinggi,Buruk
+4,7.5,Putih,Panjang,Normal,Baik
+4,6.6,Putih,Panjang,Normal,Baik
+7,4.5,Kuning,Panjang,Rendah,Buruk
+4,9.0,Putih Kekuningan,Sedang,Normal,Baik
+7,12.3,Kuning,Panjang,Tinggi,Buruk
+3,6.6,Putih,Panjang,Tinggi,Sedang
+6,3.8,Kuning,Pendek,Rendah,Buruk
+5,6.1,Putih,Sedang,Normal,Baik
+5,8.9,Putih,Panjang,Normal,Baik
+4,7.0,Putih,Sedang,Normal,Baik
+4,11.0,Putih Kekuningan,Panjang,Rendah,Sedang
+5,9.1,Putih,Sedang,Normal,Baik
+7,8.8,Kuning,Pendek,Rendah,Buruk
+4,10.0,Putih Kekuningan,Panjang,Normal,Baik
+3,7.5,Putih,Sedang,Normal,Baik
+3,8.0,Putih,Panjang,Normal,Baik
+4,8.8,Putih,Sedang,Normal,Baik
+5,9.0,Putih,Panjang,Normal,Baik
+5,5.7,Putih,Sedang,Rendah,Sedang
+3,8.7,Putih,Sedang,Normal,Baik
+4,9.3,Kuning,Panjang,Tinggi,Sedang
+5,7.1,Putih,Sedang,Normal,Baik
+5,8.4,Putih,Sedang,Normal,Baik
+3,6.3,Putih,Panjang,Normal,Baik
+3,8.0,Putih Kekuningan,Pendek,Normal,Sedang
+5,8.8,Putih,Panjang,Normal,Baik
+5,6.5,Putih,Panjang,Normal,Baik
+7,10.4,Kuning,Panjang,Rendah,Buruk
+5,6.2,Putih Kekuningan,Sedang,Normal,Baik
+5,8.1,Putih,Sedang,Normal,Baik
+5,8.2,Putih,Sedang,Tinggi,Sedang
+3,6.0,Putih,Sedang,Normal,Baik
+6,7.5,Coklat,Panjang,Rendah,Buruk
+4,8.2,Putih,Sedang,Normal,Baik
+5,6.6,Putih,Sedang,Normal,Baik
+7,12.3,Kuning,Pendek,Rendah,Buruk
+6,10.8,Putih,Pendek,Tinggi,Sedang
+6,9.7,Coklat,Panjang,Tinggi,Buruk
+7,10.7,Coklat,Pendek,Tinggi,Buruk
+3,8.1,Putih Kekuningan,Sedang,Normal,Baik
+4,10.2,Kuning,Panjang,Tinggi,Sedang
+4,6.9,Putih,Panjang,Normal,Baik
+5,7.7,Putih,Panjang,Normal,Baik
+3,9.3,Putih,Panjang,Tinggi,Baik
+4,6.1,Putih,Sedang,Normal,Baik
+3,5.0,Putih Kekuningan,Sedang,Normal,Sedang
+5,5.2,Kuning,Pendek,Tinggi,Sedang
+2,8.4,Putih,Sedang,Normal,Sedang
+3,9.1,Putih,Sedang,Normal,Baik
+4,5.4,Kuning,Panjang,Normal,Sedang
+2,12.1,Kuning,Panjang,Rendah,Buruk
+4,9.0,Putih,Sedang,Normal,Baik
+3,4.9,Kuning,Sedang,Tinggi,Sedang
+2,9.9,Putih Kekuningan,Panjang,Rendah,Sedang
+4,6.6,Putih Kekuningan,Sedang,Normal,Baik
+4,8.6,Putih,Panjang,Normal,Baik
+2,7.7,Putih Kekuningan,Pendek,Normal,Sedang
+6,6.1,Coklat,Pendek,Tinggi,Buruk
+2,11.5,Kuning,Pendek,Tinggi,Buruk
+6,5.7,Putih,Pendek,Tinggi,Sedang
+6,9.8,Putih,Pendek,Rendah,Sedang
+7,6.2,Coklat,Pendek,Rendah,Buruk
+2,10.3,Kuning,Panjang,Rendah,Buruk
+5,9.2,Putih Kekuningan,Sedang,Normal,Baik
+5,7.1,Putih,Sedang,Normal,Baik
+4,8.0,Putih,Panjang,Normal,Baik
+3,9.7,Kuning,Pendek,Rendah,Sedang
+4,8.2,Putih,Sedang,Normal,Baik
+5,7.9,Kuning,Panjang,Normal,Sedang
+3,6.9,Putih Kekuningan,Pendek,Rendah,Sedang
+3,10.5,Putih Kekuningan,Sedang,Rendah,Sedang
+2,5.4,Kuning,Panjang,Rendah,Buruk
+3,6.2,Putih,Sedang,Normal,Baik
+4,7.5,Putih,Sedang,Normal,Baik
+3,4.7,Putih,Pendek,Normal,Sedang
+3,8.3,Putih,Sedang,Normal,Baik
+3,9.4,Kuning,Sedang,Rendah,Sedang
+4,7.8,Putih,Sedang,Normal,Baik
+5,6.1,Putih,Sedang,Normal,Baik
+7,12.0,Coklat,Panjang,Tinggi,Buruk
+5,10.6,Putih,Pendek,Tinggi,Sedang
+3,9.0,Putih,Sedang,Normal,Baik
+5,9.9,Putih,Sedang,Normal,Baik
+4,8.7,Putih,Sedang,Normal,Sedang
+4,8.6,Putih,Sedang,Normal,Baik
+4,6.1,Putih,Sedang,Normal,Baik
+4,5.7,Putih Kekuningan,Panjang,Normal,Sedang
+3,9.9,Putih,Panjang,Normal,Baik
+4,6.0,Putih,Panjang,Tinggi,Baik
+4,9.4,Kuning,Sedang,Normal,Sedang
+2,6.7,Kuning,Panjang,Normal,Sedang
+3,4.7,Putih,Sedang,Tinggi,Sedang
+2,5.4,Kuning,Panjang,Rendah,Buruk
+2,12.0,Kuning,Pendek,Rendah,Buruk
+3,11.0,Kuning,Panjang,Tinggi,Sedang
+6,10.5,Putih,Sedang,Normal,Sedang
+4,8.5,Putih Kekuningan,Sedang,Normal,Baik
+5,6.1,Kuning,Panjang,Normal,Sedang
+7,8.8,Coklat,Pendek,Rendah,Buruk
+4,8.2,Putih Kekuningan,Sedang,Normal,Baik
+3,10.6,Putih Kekuningan,Pendek,Rendah,Sedang
+4,5.1,Putih Kekuningan,Panjang,Rendah,Sedang
+4,9.9,Putih,Panjang,Normal,Baik
+3,9.9,Putih,Panjang,Normal,Baik
+5,9.7,Putih,Panjang,Normal,Baik
+4,6.9,Kuning,Sedang,Tinggi,Sedang
+2,8.5,Kuning,Pendek,Tinggi,Sedang
+7,10.7,Kuning,Pendek,Rendah,Buruk
+3,8.3,Putih,Sedang,Normal,Baik
+2,6.8,Putih,Panjang,Tinggi,Sedang
+6,3.6,Kuning,Pendek,Tinggi,Buruk
+3,7.1,Putih Kekuningan,Sedang,Rendah,Sedang
+6,4.6,Coklat,Pendek,Tinggi,Buruk
+6,5.5,Putih,Pendek,Tinggi,Sedang
+5,6.1,Putih,Panjang,Normal,Baik
+6,12.3,Kuning,Pendek,Rendah,Buruk
+7,6.7,Coklat,Pendek,Rendah,Buruk
+4,7.6,Putih,Panjang,Normal,Baik
+4,5.7,Putih Kekuningan,Pendek,Rendah,Sedang
+4,6.7,Putih,Panjang,Normal,Baik
+3,10.8,Putih,Sedang,Tinggi,Sedang
+2,8.1,Kuning,Pendek,Normal,Sedang
+6,8.5,Putih,Panjang,Tinggi,Sedang
+4,4.6,Putih,Pendek,Rendah,Sedang
+2,10.4,Coklat,Panjang,Rendah,Buruk
+2,8.8,Kuning,Pendek,Rendah,Buruk
+3,7.2,Kuning,Pendek,Tinggi,Sedang
+4,6.8,Putih,Sedang,Normal,Baik
+4,9.6,Putih,Sedang,Normal,Baik
+5,7.2,Putih,Sedang,Tinggi,Sedang
+4,6.5,Putih,Panjang,Normal,Baik
+3,8.0,Putih,Sedang,Tinggi,Sedang
+5,8.6,Kuning,Panjang,Normal,Sedang
+2,3.4,Kuning,Panjang,Rendah,Buruk
+6,10.5,Putih Kekuningan,Panjang,Rendah,Sedang
+2,8.8,Putih,Pendek,Normal,Sedang
+7,6.3,Kuning,Panjang,Rendah,Buruk
+4,7.7,Putih,Panjang,Normal,Baik
+3,8.0,Putih,Panjang,Normal,Baik
+6,9.2,Kuning,Panjang,Rendah,Buruk
+3,9.2,Putih,Panjang,Normal,Baik
+6,4.9,Coklat,Pendek,Tinggi,Buruk
+7,6.8,Coklat,Pendek,Tinggi,Buruk
+7,4.1,Kuning,Pendek,Rendah,Buruk
+6,9.6,Kuning,Sedang,Tinggi,Sedang
+4,6.8,Putih,Panjang,Normal,Baik
+3,4.7,Kuning,Panjang,Normal,Sedang
+2,9.3,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,5.7,Kuning,Pendek,Rendah,Sedang
+3,8.9,Putih,Panjang,Normal,Baik
+4,5.0,Putih Kekuningan,Panjang,Normal,Sedang
+6,10.1,Putih Kekuningan,Sedang,Tinggi,Sedang
+3,7.1,Putih,Sedang,Normal,Baik
+2,6.4,Coklat,Pendek,Tinggi,Buruk
+5,6.3,Putih,Panjang,Normal,Baik
+5,9.8,Putih Kekuningan,Sedang,Normal,Sedang
+7,8.2,Kuning,Pendek,Tinggi,Buruk
+6,12.4,Kuning,Pendek,Tinggi,Buruk
+2,8.6,Kuning,Pendek,Rendah,Buruk
+2,11.5,Kuning,Panjang,Rendah,Buruk
+5,8.8,Putih,Panjang,Normal,Baik
+6,9.6,Coklat,Panjang,Tinggi,Buruk
+4,9.7,Putih,Sedang,Normal,Baik
+6,12.1,Kuning,Panjang,Rendah,Buruk
+7,7.4,Coklat,Panjang,Tinggi,Buruk
+7,3.6,Coklat,Panjang,Rendah,Buruk
+4,10.3,Putih Kekuningan,Sedang,Normal,Sedang
+7,5.0,Coklat,Panjang,Tinggi,Buruk
+3,6.7,Putih,Sedang,Normal,Baik
+5,7.5,Putih,Panjang,Normal,Baik
+3,8.9,Putih,Panjang,Normal,Baik
+5,6.3,Putih Kekuningan,Panjang,Normal,Sedang
+4,8.9,Putih Kekuningan,Sedang,Normal,Baik
+5,6.6,Putih,Pendek,Normal,Sedang
+4,8.0,Putih Kekuningan,Panjang,Normal,Baik
+6,6.6,Putih,Pendek,Tinggi,Sedang
+3,8.6,Putih,Sedang,Tinggi,Baik
+4,6.1,Putih,Sedang,Normal,Baik
+4,6.4,Putih,Panjang,Normal,Baik
+5,5.0,Putih,Sedang,Tinggi,Sedang
+4,8.8,Putih,Sedang,Normal,Baik
+2,2.8,Kuning,Pendek,Rendah,Buruk
+4,9.4,Putih,Sedang,Normal,Baik
+4,9.3,Putih,Sedang,Tinggi,Baik
+6,11.3,Kuning,Pendek,Rendah,Buruk
+2,5.1,Coklat,Panjang,Rendah,Buruk
+7,7.1,Kuning,Panjang,Rendah,Buruk
+5,8.6,Kuning,Pendek,Tinggi,Sedang
+6,7.6,Putih,Sedang,Rendah,Sedang
+5,6.0,Putih,Sedang,Tinggi,Sedang
+5,9.3,Putih,Sedang,Normal,Baik
+4,6.2,Putih,Sedang,Normal,Baik
+4,6.4,Putih,Panjang,Normal,Baik
+4,8.6,Putih,Sedang,Tinggi,Baik
+4,7.5,Putih,Sedang,Normal,Baik
+4,7.7,Putih,Sedang,Normal,Baik
+7,3.6,Kuning,Panjang,Rendah,Buruk
+4,8.6,Putih,Panjang,Normal,Baik
+4,7.3,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,6.2,Putih,Sedang,Normal,Baik
+4,6.8,Putih,Sedang,Normal,Baik
+5,7.9,Putih Kekuningan,Panjang,Normal,Sedang
+2,5.9,Putih Kekuningan,Pendek,Tinggi,Sedang
+3,8.1,Putih,Panjang,Normal,Baik
+5,9.3,Putih,Panjang,Normal,Baik
+6,8.9,Coklat,Pendek,Rendah,Buruk
+5,8.5,Putih,Sedang,Normal,Baik
+3,5.7,Putih,Pendek,Normal,Sedang
+5,6.7,Putih Kekuningan,Sedang,Normal,Sedang
+3,8.4,Putih Kekuningan,Sedang,Normal,Baik
+3,6.2,Putih,Panjang,Normal,Baik
+3,9.4,Putih Kekuningan,Pendek,Rendah,Sedang
+6,7.0,Coklat,Panjang,Tinggi,Buruk
+4,6.1,Putih,Panjang,Normal,Baik
+6,7.6,Putih,Panjang,Tinggi,Sedang
+2,5.5,Putih,Pendek,Tinggi,Sedang
+6,7.5,Kuning,Panjang,Tinggi,Buruk
+3,6.8,Putih Kekuningan,Sedang,Tinggi,Baik
+7,7.9,Coklat,Pendek,Tinggi,Buruk
+6,11.4,Coklat,Panjang,Tinggi,Buruk
+3,8.3,Putih,Sedang,Normal,Baik
+4,6.4,Putih Kekuningan,Sedang,Tinggi,Sedang
+5,6.6,Putih Kekuningan,Sedang,Normal,Baik
+4,6.1,Putih,Panjang,Normal,Baik
+4,7.2,Putih,Sedang,Normal,Baik
+4,9.1,Putih,Sedang,Tinggi,Baik
+3,11.0,Putih Kekuningan,Sedang,Tinggi,Sedang
+6,4.7,Coklat,Panjang,Rendah,Buruk
+7,6.4,Coklat,Pendek,Tinggi,Buruk
+7,5.6,Coklat,Panjang,Rendah,Buruk
+3,6.1,Putih,Panjang,Normal,Sedang
+3,7.2,Putih Kekuningan,Panjang,Normal,Baik
+4,6.4,Putih,Panjang,Normal,Baik
+4,7.5,Putih,Sedang,Rendah,Sedang
+6,2.8,Kuning,Panjang,Rendah,Buruk
+6,10.4,Putih Kekuningan,Panjang,Tinggi,Sedang
+5,8.2,Putih,Panjang,Normal,Baik
+2,6.5,Kuning,Panjang,Tinggi,Buruk
+2,3.0,Kuning,Panjang,Rendah,Buruk
+7,7.3,Coklat,Pendek,Rendah,Buruk
+6,9.3,Putih Kekuningan,Panjang,Normal,Sedang
+6,9.3,Putih,Pendek,Normal,Sedang
+7,11.0,Coklat,Panjang,Rendah,Buruk
+7,9.4,Kuning,Pendek,Rendah,Buruk
+3,8.1,Putih,Sedang,Normal,Baik
+6,6.4,Kuning,Panjang,Tinggi,Buruk
+3,9.8,Kuning,Sedang,Tinggi,Sedang
+6,5.3,Putih Kekuningan,Panjang,Normal,Sedang
+5,8.6,Putih,Sedang,Normal,Baik
+5,6.4,Putih,Panjang,Normal,Baik
+5,9.2,Putih,Panjang,Normal,Baik
+3,8.3,Putih,Panjang,Normal,Baik
+6,7.4,Putih,Pendek,Rendah,Sedang
+6,5.3,Kuning,Panjang,Rendah,Buruk
+5,8.1,Putih,Sedang,Normal,Baik
+5,8.3,Putih,Sedang,Normal,Baik
+4,10.5,Putih Kekuningan,Panjang,Rendah,Sedang
+4,8.4,Putih,Panjang,Normal,Baik
+5,7.4,Putih,Panjang,Normal,Baik
+5,6.6,Putih,Sedang,Normal,Baik
+4,9.4,Kuning,Pendek,Normal,Sedang
+2,9.8,Coklat,Panjang,Rendah,Buruk
+4,6.5,Putih,Sedang,Normal,Baik
+5,9.4,Putih Kekuningan,Panjang,Normal,Baik
+3,10.0,Putih,Sedang,Normal,Baik
+4,6.0,Kuning,Pendek,Rendah,Sedang
+2,3.4,Kuning,Pendek,Rendah,Buruk
+3,9.6,Putih,Panjang,Normal,Baik
+6,4.4,Coklat,Pendek,Rendah,Buruk
+5,7.8,Putih,Panjang,Tinggi,Sedang
+2,6.9,Coklat,Pendek,Rendah,Buruk
+5,7.2,Putih,Sedang,Normal,Baik
+2,6.0,Putih,Sedang,Rendah,Sedang
+2,10.2,Putih Kekuningan,Sedang,Normal,Sedang
+3,10.0,Kuning,Panjang,Rendah,Sedang
+3,8.2,Putih,Panjang,Tinggi,Baik
+7,2.8,Coklat,Panjang,Tinggi,Buruk
+3,6.6,Putih,Panjang,Tinggi,Baik
+2,6.0,Putih Kekuningan,Panjang,Tinggi,Sedang
+2,6.7,Putih Kekuningan,Sedang,Tinggi,Sedang
+2,10.3,Putih,Pendek,Rendah,Sedang
+2,4.7,Kuning,Pendek,Tinggi,Sedang
+4,7.2,Putih,Sedang,Normal,Baik
+3,8.1,Putih,Sedang,Normal,Baik
+4,8.8,Putih,Panjang,Normal,Baik
+3,9.6,Putih Kekuningan,Panjang,Normal,Baik
+3,7.0,Putih,Sedang,Normal,Baik
+6,8.2,Putih Kekuningan,Panjang,Normal,Sedang
+2,3.1,Coklat,Pendek,Tinggi,Buruk
+4,8.4,Putih,Panjang,Normal,Baik
+5,6.5,Putih,Panjang,Tinggi,Baik
+5,8.9,Putih,Sedang,Normal,Baik
+4,9.1,Putih,Sedang,Normal,Baik
+5,8.2,Putih,Panjang,Tinggi,Baik
+6,7.7,Putih Kekuningan,Pendek,Normal,Sedang
+7,4.8,Kuning,Pendek,Tinggi,Buruk
+3,4.7,Putih Kekuningan,Panjang,Rendah,Sedang
+5,10.7,Putih Kekuningan,Sedang,Normal,Sedang
+5,7.5,Putih,Sedang,Normal,Baik
+6,7.5,Coklat,Panjang,Tinggi,Buruk
+3,7.5,Putih,Sedang,Normal,Baik
+4,9.7,Putih Kekuningan,Panjang,Tinggi,Baik
+7,4.7,Kuning,Panjang,Tinggi,Buruk
+7,11.8,Kuning,Pendek,Tinggi,Buruk
+7,5.4,Coklat,Panjang,Tinggi,Buruk
+4,7.9,Putih Kekuningan,Sedang,Normal,Baik
+5,9.8,Putih,Sedang,Normal,Baik
+5,7.6,Putih,Panjang,Normal,Baik
+5,9.2,Putih,Sedang,Normal,Baik
+4,10.0,Putih,Sedang,Normal,Sedang
+4,6.1,Putih,Sedang,Normal,Baik
+2,6.3,Kuning,Panjang,Rendah,Sedang
+6,4.3,Coklat,Panjang,Tinggi,Buruk
+5,6.7,Putih,Sedang,Normal,Baik
+3,8.9,Putih,Panjang,Rendah,Sedang
+5,6.9,Putih Kekuningan,Panjang,Tinggi,Baik
+4,8.2,Putih,Sedang,Normal,Baik
+4,6.5,Putih,Sedang,Normal,Baik
+5,7.7,Putih,Panjang,Normal,Baik
+4,7.3,Putih,Panjang,Normal,Baik
+7,2.8,Coklat,Pendek,Tinggi,Buruk
+7,2.8,Kuning,Panjang,Tinggi,Buruk
+6,10.8,Kuning,Pendek,Tinggi,Buruk
+2,10.7,Putih Kekuningan,Panjang,Tinggi,Sedang
+7,8.0,Coklat,Pendek,Rendah,Buruk
+6,7.9,Putih,Sedang,Normal,Sedang
+6,11.6,Coklat,Pendek,Tinggi,Buruk
+4,9.0,Putih,Sedang,Normal,Baik
+6,6.1,Coklat,Pendek,Tinggi,Buruk
+6,6.0,Putih,Pendek,Tinggi,Sedang
+2,11.8,Kuning,Panjang,Rendah,Buruk
+4,6.7,Putih Kekuningan,Pendek,Rendah,Sedang
+3,8.3,Putih,Sedang,Normal,Baik
+2,4.2,Coklat,Panjang,Tinggi,Buruk
+3,10.2,Putih,Pendek,Tinggi,Sedang
+3,6.5,Putih,Panjang,Tinggi,Baik
+4,8.8,Putih,Panjang,Normal,Baik
+6,8.4,Kuning,Pendek,Rendah,Buruk
+4,10.7,Putih,Panjang,Rendah,Sedang
+5,6.4,Putih,Panjang,Normal,Sedang
+6,10.5,Kuning,Pendek,Normal,Sedang
+7,8.4,Coklat,Panjang,Tinggi,Buruk
+5,8.9,Putih,Sedang,Normal,Baik
+2,8.2,Kuning,Panjang,Tinggi,Sedang
+6,5.4,Coklat,Panjang,Rendah,Buruk
+2,10.6,Kuning,Panjang,Tinggi,Buruk
+6,6.5,Putih,Sedang,Normal,Sedang
+4,7.9,Putih,Sedang,Normal,Baik
+7,10.0,Kuning,Panjang,Rendah,Buruk
+5,9.4,Putih,Sedang,Normal,Baik
+5,8.2,Putih,Panjang,Normal,Baik
+3,7.1,Putih Kekuningan,Panjang,Normal,Baik
+5,6.4,Putih Kekuningan,Panjang,Tinggi,Sedang
+2,6.9,Coklat,Panjang,Tinggi,Buruk
+3,10.0,Putih,Sedang,Tinggi,Baik
+7,10.4,Kuning,Panjang,Rendah,Buruk
+4,7.4,Kuning,Panjang,Tinggi,Sedang
+7,9.4,Kuning,Panjang,Rendah,Buruk
+7,5.7,Kuning,Pendek,Rendah,Buruk
+4,9.5,Putih,Sedang,Normal,Baik
+3,8.9,Putih,Sedang,Normal,Baik
+5,9.4,Putih,Sedang,Normal,Baik
+6,5.9,Putih Kekuningan,Pendek,Rendah,Sedang
+6,7.0,Kuning,Pendek,Tinggi,Sedang
+5,8.6,Putih,Panjang,Normal,Baik
+7,7.4,Coklat,Panjang,Tinggi,Buruk
+3,6.4,Putih,Panjang,Normal,Baik
+3,8.6,Putih,Panjang,Tinggi,Baik
+4,9.0,Kuning,Pendek,Rendah,Sedang
+6,8.5,Kuning,Pendek,Tinggi,Buruk
+3,9.6,Putih,Sedang,Normal,Baik
+5,7.3,Putih,Panjang,Normal,Baik
+3,7.1,Putih,Panjang,Normal,Baik
+4,7.6,Putih,Sedang,Normal,Baik
+2,12.0,Coklat,Pendek,Rendah,Buruk
+2,10.5,Kuning,Panjang,Tinggi,Buruk
+6,4.9,Putih Kekuningan,Panjang,Normal,Sedang
+3,9.9,Putih,Panjang,Normal,Baik
+3,9.6,Putih,Sedang,Normal,Baik
+3,6.1,Putih,Sedang,Normal,Baik
+2,4.1,Coklat,Pendek,Rendah,Buruk
+3,4.7,Kuning,Pendek,Rendah,Sedang
+3,9.8,Putih,Pendek,Normal,Sedang
+5,8.8,Putih,Sedang,Normal,Baik
+7,11.7,Kuning,Panjang,Rendah,Buruk
+6,10.3,Coklat,Pendek,Tinggi,Buruk
+3,6.4,Putih Kekuningan,Panjang,Normal,Baik
+3,9.9,Putih,Panjang,Normal,Baik
+6,6.1,Putih Kekuningan,Sedang,Tinggi,Sedang
+4,9.1,Putih,Panjang,Normal,Baik
+6,10.2,Coklat,Panjang,Tinggi,Buruk
+4,6.7,Kuning,Pendek,Normal,Sedang
+3,10.1,Putih,Panjang,Normal,Sedang
+4,8.5,Putih,Sedang,Normal,Baik
+5,6.5,Putih,Pendek,Normal,Sedang
+5,8.4,Putih,Panjang,Normal,Baik
+5,8.0,Putih,Panjang,Normal,Sedang
+5,7.9,Putih,Sedang,Tinggi,Baik
+3,7.5,Putih,Sedang,Normal,Baik
+3,7.8,Putih Kekuningan,Sedang,Normal,Baik
+6,7.7,Kuning,Panjang,Rendah,Sedang
+4,6.5,Putih Kekuningan,Panjang,Normal,Baik
+4,8.2,Putih Kekuningan,Pendek,Rendah,Sedang
+3,9.7,Kuning,Sedang,Tinggi,Sedang
+5,7.5,Putih,Panjang,Tinggi,Sedang
+2,4.1,Coklat,Pendek,Tinggi,Buruk
+3,7.9,Putih Kekuningan,Sedang,Normal,Baik
+5,6.4,Putih,Sedang,Normal,Baik
+3,4.9,Kuning,Panjang,Normal,Sedang
+3,9.7,Putih,Panjang,Normal,Baik
+5,9.1,Putih Kekuningan,Sedang,Normal,Baik
+5,6.9,Putih,Sedang,Normal,Baik
+5,6.6,Kuning,Panjang,Rendah,Sedang
+7,11.2,Coklat,Pendek,Rendah,Buruk
+3,10.0,Putih,Sedang,Normal,Baik
+2,6.6,Putih Kekuningan,Pendek,Tinggi,Sedang
+6,9.1,Coklat,Panjang,Rendah,Buruk
+4,7.5,Putih,Panjang,Normal,Baik
+6,7.8,Kuning,Pendek,Tinggi,Buruk
+5,8.1,Putih,Panjang,Rendah,Sedang
+6,10.3,Kuning,Sedang,Normal,Sedang
+4,9.4,Putih,Panjang,Normal,Baik
+5,9.5,Putih Kekuningan,Sedang,Normal,Baik
+5,10.0,Putih,Panjang,Normal,Baik
+4,7.3,Putih Kekuningan,Panjang,Normal,Baik
+4,6.1,Putih,Panjang,Normal,Baik
