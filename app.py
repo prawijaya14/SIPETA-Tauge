@@ -1,12 +1,6 @@
 import streamlit as st
 
 # =====================================================
-# DEKLARASI HALAMAN (Mencegah Error switch_page Path)
-# =====================================================
-login_page = st.Page("pages/0_Login.py", title="Login", icon="🔐")
-dashboard_page = st.Page("pages/1_Dashboard.py", title="Dashboard", icon="📊")
-
-# =====================================================
 # KONFIGURASI HALAMAN
 # =====================================================
 st.set_page_config(
@@ -38,7 +32,7 @@ if "logged_in" not in st.session_state:
 # JIKA SUDAH LOGIN
 # =====================================================
 if st.session_state.logged_in:
-    st.switch_page(dashboard_page)
+    st.switch_page("pages/1_Dashboard.py")
 
 # =====================================================
 # LANDING PAGE
@@ -126,7 +120,8 @@ if st.button(
     use_container_width=True,
     type="primary"
 ):
-    st.switch_page(login_page)
+    # Penulisan string path resmi untuk folder pages
+    st.switch_page("pages/0_Login.py")
 
 st.divider()
 
