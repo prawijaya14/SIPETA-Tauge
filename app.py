@@ -1,9 +1,14 @@
 import streamlit as st
 
 # =====================================================
+# DEKLARASI HALAMAN (Mencegah Error switch_page Path)
+# =====================================================
+login_page = st.Page("pages/0_Login.py", title="Login", icon="🔐")
+dashboard_page = st.Page("pages/1_Dashboard.py", title="Dashboard", icon="📊")
+
+# =====================================================
 # KONFIGURASI HALAMAN
 # =====================================================
-
 st.set_page_config(
     page_title="SIPETA",
     page_icon="🌱",
@@ -14,35 +19,30 @@ st.set_page_config(
 # =====================================================
 # LOAD CSS
 # =====================================================
-
 try:
     with open("assets/style.css", encoding="utf-8") as css:
         st.markdown(
             f"<style>{css.read()}</style>",
             unsafe_allow_html=True
         )
-except:
+except FileNotFoundError:
     pass
 
 # =====================================================
 # CEK LOGIN
 # =====================================================
-
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 
 # =====================================================
 # JIKA SUDAH LOGIN
 # =====================================================
-
 if st.session_state.logged_in:
-
-    st.switch_page("pages/1_Dashboard.py")
+    st.switch_page(dashboard_page)
 
 # =====================================================
 # LANDING PAGE
 # =====================================================
-
 st.markdown("""
 <div class="dashboard-banner">
 
@@ -65,7 +65,6 @@ st.write("")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-
     st.markdown("""
 <div class="card-stat">
 
@@ -79,7 +78,6 @@ with col1:
 """, unsafe_allow_html=True)
 
 with col2:
-
     st.markdown("""
 <div class="card-stat">
 
@@ -93,7 +91,6 @@ with col2:
 """, unsafe_allow_html=True)
 
 with col3:
-
     st.markdown("""
 <div class="card-stat">
 
@@ -129,7 +126,7 @@ if st.button(
     use_container_width=True,
     type="primary"
 ):
-    st.switch_page("pages/0_Login.py")
+    st.switch_page(login_page)
 
 st.divider()
 
