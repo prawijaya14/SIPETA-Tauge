@@ -32,7 +32,7 @@ if "logged_in" not in st.session_state:
 # JIKA SUDAH LOGIN
 # =====================================================
 if st.session_state.logged_in:
-    st.switch_page("1_Dashboard.py")
+    st.switch_page("pages/1_Dashboard.py")
 
 # =====================================================
 # LANDING PAGE
@@ -120,8 +120,7 @@ if st.button(
     use_container_width=True,
     type="primary"
 ):
-    # Langsung panggil nama filenya tanpa 'pages/'
-    st.switch_page("0_Login.py")
+    st.switch_page("pages/0_Login.py")
 
 st.divider()
 
